@@ -10,5 +10,4 @@ Bungker adalah AI assistant yang membantu berbagai tugas seperti:
 - 📊 Data analysis
 
 ---
-
 *Created by Bungker AI*
