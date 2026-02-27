@@ -1,0 +1,5121 @@
+{
+  "summary": {
+    "total_ip": 763,
+    "total_subnet": 8,
+    "subnet_distribution": {
+      "123.108.96": 5,
+      "123.108.97": 312,
+      "123.108.98": 66,
+      "123.108.99": 112,
+      "123.108.100": 110,
+      "123.108.101": 18,
+      "123.108.102": 62,
+      "123.108.103": 78
+    },
+    "top_instansi": {
+      "Dinas Perhubungan Aceh": 7,
+      "RSUZA": 6,
+      "Kabupaten Bireun": 6,
+      "Dinas Pendidikan Aceh": 5,
+      "Kabupaten Aceh Utara": 5,
+      "Dinas Keuangan Aceh": 5,
+      "Kabupaten Aceh Jaya": 4,
+      "Dsikominsa": 3,
+      "Bidang E-Gov": 3,
+      "TIK - Diskominsa": 3,
+      "Inspektorat Aceh": 3,
+      "Dinas Pendidikan Dayah Aceh": 3,
+      "Diskominsa Aceh": 3,
+      "BPSDM Aceh": 3,
+      "Bidang Sandi": 3,
+      "UPTD Statistik": 3,
+      "Kabupaten Aceh Barat": 3,
+      "Kabupaten Aceh Selatan": 3,
+      "Diskominsa": 2,
+      "BAPPEDA": 2,
+      "DRKA": 2,
+      "Dinas Sosial Aceh": 2,
+      "Dinas Syariat Islam Aceh": 2,
+      "BPBA": 2,
+      "DPRA": 2,
+      "Dinas Pertanahan Aceh": 2,
+      "BKA": 2,
+      "Dinas Kesehatan Aceh": 2,
+      "Dinas Pertanian dan Perkebunan Aceh": 2,
+      "Diskominfo dan Persandian Aceh": 2
+    },
+    "status_distribution": {
+      "DC TIK": 3,
+      "DC NC Banda Aceh": 2,
+      "Aktif": 43,
+      "Tidak Aktif": 17,
+      "DC NC Medan": 18,
+      "DC NC Jakarta": 42
+    },
+    "top_lokasi": {
+      "VPS": 60,
+      "RSUZA": 6,
+      "Aktif": 5,
+      "Dinas Pendidikan Dayah Aceh": 2,
+      "Dinas Perhubungan Aceh": 2,
+      "Dinas Pendidikan Aceh": 2,
+      "DPRA": 2,
+      "Kantor Dishub": 2,
+      "NOC TIK": 1,
+      "Bid. TIK Lt. 2": 1,
+      "Bid-Egov": 1,
+      "pendopo gubernur": 1,
+      "Diskominfo Aceh": 1,
+      "DRKA": 1,
+      "Dinas Sosial Aceh": 1,
+      "Dis Kebudayaan dan Pariwisata Aceh": 1,
+      "BPSDMA": 1,
+      "Sekda": 1,
+      "Dis Tenaga Kerja dan Mosduk Aceh": 1,
+      "RSJA": 1,
+      "Rumah Dinas Wagub": 1,
+      "Inspektorat Aceh": 1,
+      "BAPPEDA": 1,
+      "Dinas Pertanian & Perkebunan Aceh": 1,
+      "BKA Aceh": 1,
+      "Dinas Syariat Islam Aceh": 1,
+      "BPBA": 1,
+      "Badan Kesatuan Bangsa dan politik Aceh": 1,
+      "Dinas Pangan Aceh": 1,
+      "Kopri": 1
+    }
+  },
+  "data": [
+    {
+      "Subnet": "123.108.96",
+      "IP Address": "123.108.96.98",
+      "No": 98.0,
+      "Nama Layanan": "Firewal-ha-2",
+      "Instansi": "Dsikominsa",
+      "Status": "DC TIK",
+      "Lokasi": "Aktif"
+    },
+    {
+      "Subnet": "123.108.96",
+      "IP Address": "123.108.96.98",
+      "No": 99.0,
+      "Nama Layanan": "Switch-Core-2",
+      "Instansi": "Dsikominsa",
+      "Status": "DC TIK",
+      "Lokasi": "Aktif"
+    },
+    {
+      "Subnet": "123.108.96",
+      "IP Address": "123.108.96.98",
+      "No": 100.0,
+      "Nama Layanan": "Switch-DCPA-1-Net98-99",
+      "Instansi": "Dsikominsa",
+      "Status": "DC TIK",
+      "Lokasi": "Aktif"
+    },
+    {
+      "Subnet": "123.108.96",
+      "IP Address": "123.108.96.109",
+      "No": 109.0,
+      "Nama Layanan": "Switch Aruba ",
+      "Instansi": "Diskominsa",
+      "Status": "DC NC Banda Aceh",
+      "Lokasi": "Aktif"
+    },
+    {
+      "Subnet": "123.108.96",
+      "IP Address": "123.108.96.110",
+      "No": 110.0,
+      "Nama Layanan": "Switch Aruba ",
+      "Instansi": "Diskominsa",
+      "Status": "DC NC Banda Aceh",
+      "Lokasi": "Aktif"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.1",
+      "No": 1.0,
+      "Nama Layanan": "Router Core",
+      "Instansi": "Bidang TIK - Diskominsa Aceh"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.2",
+      "No": 2.0,
+      "Nama Layanan": "smtp.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.3",
+      "No": 3.0,
+      "Nama Layanan": "smpt2.acehprov.go.id\n"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.3",
+      "Nama Layanan": "switch1-dtc.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.4",
+      "No": 4.0,
+      "Nama Layanan": "SIMASA"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.4",
+      "Nama Layanan": "switch2-dtc.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.5",
+      "No": 5.0,
+      "Nama Layanan": "Server Pelatihan"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.6",
+      "No": 6.0,
+      "Nama Layanan": "Generator.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.7",
+      "No": 7.0,
+      "Nama Layanan": "PPID Multisite"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.7",
+      "Nama Layanan": "smtp3.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.8",
+      "No": 8.0,
+      "Nama Layanan": "Idmail"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.8",
+      "Nama Layanan": "Server Temporary 2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.9",
+      "No": 9.0,
+      "Nama Layanan": "storage-official"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.10",
+      "No": 10.0,
+      "Nama Layanan": "E-Pengaduan Migrasi"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.11",
+      "No": 11.0,
+      "Nama Layanan": "ldap-sso"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.12",
+      "No": 12.0,
+      "Nama Layanan": "admsms.acehprov.go.id / SIKN Arsip"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.13",
+      "No": 13.0,
+      "Nama Layanan": "captive-portal"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.14",
+      "No": 14.0,
+      "Nama Layanan": "srad.acehprov.go.id (SSO)"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.15",
+      "No": 15.0,
+      "Nama Layanan": "VM NS"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.16",
+      "No": 16.0,
+      "Nama Layanan": "SIAT-LEAD",
+      "Instansi": "Bidang E-Gov"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.16",
+      "Nama Layanan": "virtual-nac1"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.17",
+      "No": 17.0,
+      "Nama Layanan": "webstatic-2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.18",
+      "No": 18.0,
+      "Nama Layanan": "VPS KEBEN KUPI BAPPEDA ACEH TENGAH"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.18",
+      "Nama Layanan": "OWTF SIAT-DEV"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.18",
+      "Nama Layanan": "migrasi-email"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.19",
+      "No": 19.0,
+      "Nama Layanan": "Profil Kesehatan - https://profilkes.acehprov.go.id/",
+      "Instansi": "Dinas Kesehatan"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.20",
+      "No": 20.0,
+      "Nama Layanan": "NODE-20 Server ibm Bekas c-panel lama\n"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.20",
+      "Nama Layanan": "LPSE_Sabang"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.21",
+      "No": 21.0,
+      "Nama Layanan": "Storage Panel2.acehprov.go.id\n"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.21",
+      "Nama Layanan": "virtual-nac2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.22",
+      "No": 22.0,
+      "Nama Layanan": "Server LPSE Aceh Barat Daya\n"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.23",
+      "No": 23.0,
+      "Nama Layanan": "Speedtest.acehprov.go.id\n"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.24",
+      "No": 24.0,
+      "Nama Layanan": "lpse.naganrayakab.go.id\n"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.25",
+      "No": 25.0,
+      "Nama Layanan": "proxmox_backup-aceh node 25\n"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.25",
+      "Nama Layanan": "LPSE_SUBUSSALAM"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.26",
+      "No": 26.0,
+      "Nama Layanan": "panel4.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.27",
+      "No": 27.0,
+      "Nama Layanan": "LPSE_ATIM/ldap 25 sementara"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.28",
+      "No": 28.0,
+      "Nama Layanan": "ponxii.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.29",
+      "No": 29.0,
+      "Nama Layanan": "SIAT-BRAVO2/Server Dev Bravo",
+      "Instansi": "Bidang E-Gov"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.29",
+      "Nama Layanan": "LPSE_BIREUEN"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.30",
+      "No": 30.0,
+      "Nama Layanan": "ojsbapeda.acehprov.go.id / VPS Bappeda",
+      "Instansi": "BAPPEDA"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.31",
+      "No": 31.0,
+      "Nama Layanan": "PPID-MIGRASI / PPID",
+      "Instansi": "Dinas Kominfo,Informatika dan Persandi Aceh"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.32",
+      "No": 32.0,
+      "Nama Layanan": "LPSE_PIJAY"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.33",
+      "No": 33.0,
+      "Nama Layanan": "Aplikasi web server blud smk / VPS Blud SMK ",
+      "Instansi": "Badan Pengelolaan Keuangan Aceh"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.33",
+      "Nama Layanan": " Docker Swamp"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.33",
+      "Nama Layanan": "Web Conferencing"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.34",
+      "No": 34.0,
+      "Nama Layanan": "Server Roip Dishub Aceh\n",
+      "Instansi": "Dishub Aceh"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.34",
+      "Nama Layanan": "Panel-7"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.35",
+      "No": 35.0,
+      "Nama Layanan": "DPMPTSP-2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.35",
+      "Nama Layanan": "GIS"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.36",
+      "No": 36.0,
+      "Nama Layanan": "PVE Backup 3"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.36",
+      "Nama Layanan": "CCTV_PSI"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.37",
+      "No": 37.0,
+      "Nama Layanan": "VPS TTD Elektronik Bid. Sandi ",
+      "Instansi": "Bidang Persandian"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.37",
+      "Nama Layanan": " DRKA_SERVER"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.38",
+      "No": 38.0,
+      "Nama Layanan": "nac3acehprov"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.39",
+      "No": 39.0,
+      "Nama Layanan": "lpse-v4"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.40",
+      "No": 40.0,
+      "Nama Layanan": "Data Terminal Dishub Aceh"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.40",
+      "Nama Layanan": "PANEL 8"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.41",
+      "No": 41.0,
+      "Nama Layanan": "VPSHostingGalus",
+      "Instansi": "Kabupaten Gayo Lues"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.42",
+      "No": 42.0,
+      "Nama Layanan": "SecurityCenterIMB"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.42",
+      "Nama Layanan": "cacti.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.43",
+      "No": 43.0,
+      "Nama Layanan": "registry.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.43",
+      "Nama Layanan": "e-pangaduan"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.44",
+      "No": 44.0,
+      "Nama Layanan": "Bekas storage c-panel"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.45",
+      "No": 45.0,
+      "Nama Layanan": "LDAP-Acehprov"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.46",
+      "No": 46.0,
+      "Nama Layanan": "VPS-PANGAN"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.47",
+      "No": 47.0,
+      "Nama Layanan": "LPSE_Acehprov"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.48",
+      "No": 48.0,
+      "Nama Layanan": "LPSDM"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.49",
+      "No": 49.0,
+      "Nama Layanan": "lpse_storage"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.50",
+      "No": 50.0,
+      "Nama Layanan": "ASET (blud.acehprov.go.id)"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.51",
+      "No": 51.0,
+      "Nama Layanan": "LPSE_GAYO"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.52",
+      "No": 52.0,
+      "Nama Layanan": "CSIRT-MONITORING"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.52",
+      "Nama Layanan": "SIMAYA"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.53",
+      "No": 53.0,
+      "Nama Layanan": "CVR Network Storage Dishub"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.54",
+      "No": 54.0,
+      "Nama Layanan": "Digital Signature Dishub"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.55",
+      "No": 55.0,
+      "Nama Layanan": "SIKD-DEV1 / APPS_Pemerintahan"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.55",
+      "Nama Layanan": "APP_Pemerintahan"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.56",
+      "No": 56.0,
+      "Nama Layanan": "Proxmox App"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.57",
+      "No": 57.0,
+      "Nama Layanan": "Proxmox GDC"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.58",
+      "No": 58.0,
+      "Nama Layanan": "LPSE_Simeulue"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.59",
+      "No": 59.0,
+      "Nama Layanan": "Aceh Carong Disdik"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.60",
+      "No": 60.0,
+      "Nama Layanan": "Sireva Disdik"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.61",
+      "No": 61.0,
+      "Nama Layanan": "VPS SIMELON "
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.61",
+      "Nama Layanan": " GeRAK Aceh"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.62",
+      "No": 62.0,
+      "Nama Layanan": "Geo Portal"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.63",
+      "No": 63.0,
+      "Nama Layanan": "Aceh gis"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.64",
+      "No": 64.0,
+      "Nama Layanan": "SIGA"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.65",
+      "No": 65.0,
+      "Nama Layanan": "SMTP3"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.66",
+      "No": 66.0,
+      "Nama Layanan": "VPS Samsat kab/kota"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.66",
+      "Nama Layanan": "Web_SMS"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.67",
+      "No": 67.0,
+      "Nama Layanan": "VPS Web ESDM",
+      "Instansi": "ESDM"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.67",
+      "Nama Layanan": "LPSE_Singkil"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.67",
+      "Nama Layanan": "Pritunl"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.67",
+      "Nama Layanan": "VPS-pak-Ives-Kasi-intra"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.68",
+      "No": 68.0,
+      "Nama Layanan": "rand-acehprov.go.id / IoT Dishub"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.69",
+      "No": 69.0,
+      "Nama Layanan": "E-TAMBAK"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.70",
+      "No": 70.0,
+      "Nama Layanan": "DatabaseMonev"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.71",
+      "No": 71.0,
+      "Nama Layanan": "GDC"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.72",
+      "No": 72.0,
+      "Nama Layanan": "E-Rencana"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.73",
+      "No": 73.0,
+      "Nama Layanan": "Server Dishub 1"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.74",
+      "No": 74.0,
+      "Nama Layanan": "Server Dishub 2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.75",
+      "No": 75.0,
+      "Nama Layanan": "DPMPTSP"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.75",
+      "Nama Layanan": "Mail2 Backup"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.76",
+      "No": 76.0,
+      "Nama Layanan": "HoneyNet"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.77",
+      "No": 77.0,
+      "Nama Layanan": "Server BKA"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.78",
+      "No": 78.0,
+      "Nama Layanan": "Panel PPID"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.79",
+      "No": 79.0,
+      "Nama Layanan": "Backup_LPSEAcehprov"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.80",
+      "No": 80.0,
+      "Nama Layanan": "Webcore1"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.81",
+      "No": 81.0,
+      "Nama Layanan": "Webcore2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.82",
+      "No": 82.0,
+      "Nama Layanan": "Absesnsi Replikasi"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.83",
+      "No": 83.0,
+      "Nama Layanan": "Aplikasi SIKAWAN"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.84",
+      "No": 84.0,
+      "Nama Layanan": "backup-drc1"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.84",
+      "Nama Layanan": "panel3-acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.84",
+      "Nama Layanan": "SMS_Server"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.85",
+      "No": 85.0,
+      "Nama Layanan": "FortiWEB"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.86",
+      "No": 86.0,
+      "Nama Layanan": "DWH BAPPEDA"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.87",
+      "No": 87.0,
+      "Nama Layanan": "DB Cloud"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.87",
+      "Nama Layanan": "nms.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.88",
+      "No": 88.0,
+      "Nama Layanan": "Load balancer 1"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.89",
+      "No": 89.0,
+      "Nama Layanan": "Load Balancer 2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.90",
+      "No": 90.0,
+      "Nama Layanan": "Sijahtra"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.91",
+      "No": 91.0,
+      "Nama Layanan": "WEB1-SIAT"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.92",
+      "No": 92.0,
+      "Nama Layanan": "WEB2-SIAT"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.92",
+      "Nama Layanan": "Sistem_database1"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.93",
+      "No": 93.0,
+      "Nama Layanan": "WEB3-SIAT"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.93",
+      "Nama Layanan": "Sistem_database2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.94",
+      "No": 94.0,
+      "Nama Layanan": "TU Pimpinan"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.95",
+      "No": 95.0,
+      "Nama Layanan": "sikka.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.96",
+      "No": 96.0,
+      "Nama Layanan": "Riset Pentester SIAT"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.97",
+      "No": 97.0,
+      "Nama Layanan": "SIAT_DELTA2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.98",
+      "No": 98.0,
+      "Nama Layanan": "VPS integrasi e-keurani-simpeg"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.98",
+      "Nama Layanan": "ekerani.kab.kota"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.99",
+      "No": 99.0,
+      "Nama Layanan": "NS_Authoritative2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.100",
+      "No": 100.0,
+      "Nama Layanan": "nms.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.101",
+      "No": 101.0,
+      "Nama Layanan": "TKP2K BAPPEDA"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.102",
+      "No": 102.0,
+      "Nama Layanan": "www1-surat.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.103",
+      "No": 103.0,
+      "Nama Layanan": "www1.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.104",
+      "No": 104.0,
+      "Nama Layanan": "redaksi.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.105",
+      "No": 105.0,
+      "Nama Layanan": "Taspen"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.106",
+      "No": 106.0,
+      "Nama Layanan": "SIPKD1"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.107",
+      "No": 107.0,
+      "Nama Layanan": "SP2D"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.108",
+      "No": 108.0,
+      "Nama Layanan": "SIPKD2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.109",
+      "No": 109.0,
+      "Nama Layanan": "SIMBAN"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.110",
+      "No": 110.0,
+      "Nama Layanan": "VPS Trans Kota Raja"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.111",
+      "No": 111.0,
+      "Nama Layanan": "Mail_Acehprov"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.112",
+      "No": 112.0,
+      "Nama Layanan": "blade_node1"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.113",
+      "No": 113.0,
+      "Nama Layanan": "blade_node2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.114",
+      "No": 114.0,
+      "Nama Layanan": "regsikd"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.115",
+      "No": 115.0,
+      "Nama Layanan": "E-Budgeting-APP"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.116",
+      "No": 116.0,
+      "Nama Layanan": "E-Budgeting-DB"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.117",
+      "No": 117.0,
+      "Nama Layanan": "Data File CLoud"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.117",
+      "Nama Layanan": "IBNU"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.118",
+      "No": 118.0,
+      "Nama Layanan": "Pengawasan Acunetix"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.119",
+      "No": 119.0,
+      "Nama Layanan": "NS2 Aceh Utara"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.120",
+      "No": 120.0,
+      "Nama Layanan": "Page-Blocked"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.121",
+      "No": 121.0,
+      "Nama Layanan": "sentora"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.122",
+      "No": 122.0,
+      "Nama Layanan": "Server Internet Syariah"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.123",
+      "No": 123.0,
+      "Nama Layanan": "Log.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.124",
+      "No": 124.0,
+      "Nama Layanan": "CPANEL"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.125",
+      "No": 125.0,
+      "Nama Layanan": "Windows Disdik"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.126",
+      "No": 126.0,
+      "Nama Layanan": "Hosting Gampong"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.127",
+      "No": 127.0,
+      "Nama Layanan": "Server Gampong Data 1"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.128",
+      "No": 128.0,
+      "Nama Layanan": "Server Gampong Data 2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.129",
+      "No": 129.0,
+      "Nama Layanan": "VPN Terminal Type B Dishub Aceh"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.130",
+      "No": 130.0,
+      "Nama Layanan": "VPN IP"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.131",
+      "No": 131.0,
+      "Nama Layanan": "Aplikasi Sidom Bappeda"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.131",
+      "Nama Layanan": "smtp-uji"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.131",
+      "Nama Layanan": "Mirror SIPKD Centos"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.132",
+      "No": 132.0,
+      "Nama Layanan": "Vps IOT2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.133",
+      "No": 133.0,
+      "Nama Layanan": "LPSE_Latihan2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.134",
+      "No": 134.0,
+      "Nama Layanan": "Server P2K"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.135",
+      "No": 135.0,
+      "Nama Layanan": "smtp4"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.136",
+      "No": 136.0,
+      "Nama Layanan": "DB-Slave "
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.137",
+      "No": 137.0,
+      "Nama Layanan": "SIMANJA-LB"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.138",
+      "No": 138.0,
+      "Nama Layanan": "Rsudza Reg Online"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.139",
+      "No": 139.0,
+      "Nama Layanan": "SIKD"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.140",
+      "No": 140.0,
+      "Nama Layanan": "ujian"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.141",
+      "No": 141.0,
+      "Nama Layanan": "Server Dinsos"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.142",
+      "No": 142.0,
+      "Nama Layanan": "VPS Kominfo Lhokseumawe"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.143",
+      "No": 143.0,
+      "Nama Layanan": "Proxmox UPTB PDGA"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.144",
+      "No": 144.0,
+      "Nama Layanan": "Nextcloud UPTB PDGA"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.145",
+      "No": 145.0,
+      "Nama Layanan": "Data Uji Kir Dishub Aceh"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.145",
+      "Nama Layanan": "VPS SMA 3"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.146",
+      "No": 146.0,
+      "Nama Layanan": "SIMANJA1"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.147",
+      "No": 147.0,
+      "Nama Layanan": "SIMANJA2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.148",
+      "No": 148.0,
+      "Nama Layanan": "VpsKominfo-tes"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.149",
+      "No": 149.0,
+      "Nama Layanan": "IP CSIRT"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.149",
+      "Nama Layanan": "VPS Disdik"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.150",
+      "No": 150.0,
+      "Nama Layanan": "Blade Supermico9"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.150",
+      "Nama Layanan": "E-Samsat"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.151",
+      "No": 151.0,
+      "Nama Layanan": "Blade Supermico10"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.152",
+      "No": 152.0,
+      "Nama Layanan": "VPS Aset Dishub Aceh"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.152",
+      "Nama Layanan": "Blade Supermico11"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.152",
+      "Nama Layanan": "Clone Proxmox Mail Gateway PMG"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.153",
+      "No": 153.0,
+      "Nama Layanan": "Blade Supermico12"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.154",
+      "No": 154.0,
+      "Nama Layanan": "Blade Supermico13"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.155",
+      "No": 155.0,
+      "Nama Layanan": "Blade Supermico14"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.155",
+      "Nama Layanan": "SIKD-Arpus"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.156",
+      "No": 156.0,
+      "Nama Layanan": "Dev Team SIAT"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.157",
+      "No": 157.0,
+      "Nama Layanan": "GitLab SIAT"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.158",
+      "No": 158.0,
+      "Nama Layanan": "SIKN ARSIP"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.159",
+      "No": 159.0,
+      "Nama Layanan": "Pentest"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.160",
+      "No": 160.0,
+      "Nama Layanan": "Csirt-aduan"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.160",
+      "Nama Layanan": "SIMANJA3"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.161",
+      "No": 161.0,
+      "Nama Layanan": "SIMANJA4"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.162",
+      "No": 162.0,
+      "Nama Layanan": "Sys Analis 1"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.163",
+      "No": 163.0,
+      "Nama Layanan": "pintu.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.163",
+      "Nama Layanan": "Sys Analis 2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.164",
+      "No": 164.0,
+      "Nama Layanan": "Dev Mantra"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.165",
+      "No": 165.0,
+      "Nama Layanan": "Dev Ckan"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.166",
+      "No": 166.0,
+      "Nama Layanan": "Blade Supermico15"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.166",
+      "Nama Layanan": "Db-Admin 3"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.167",
+      "No": 167.0,
+      "Nama Layanan": "Blade Supermico16"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.167",
+      "Nama Layanan": "Db-Admin 4"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.168",
+      "No": 168.0,
+      "Nama Layanan": "Blade Supermico17"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.168",
+      "Nama Layanan": "Db-Admin 5"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.169",
+      "No": 169.0,
+      "Nama Layanan": "VPS-SMART-CONNECTIVITY-ACEH-TENGAH"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.170",
+      "No": 170.0,
+      "Nama Layanan": "CPANEL 2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.171",
+      "No": 171.0,
+      "Nama Layanan": "Proxmox APP 2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.172",
+      "No": 172.0,
+      "Nama Layanan": "Proxmox APP 3"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.173",
+      "No": 173.0,
+      "Nama Layanan": "vps-Arpus-Calang"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.174",
+      "No": 174.0,
+      "Nama Layanan": "Mail Kab/Kota"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.175",
+      "No": 175.0,
+      "Nama Layanan": "Dev Mantra"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.176",
+      "No": 176.0,
+      "Nama Layanan": "Middleware"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.177",
+      "No": 177.0,
+      "Nama Layanan": "Blade Supermico1"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.178",
+      "No": 178.0,
+      "Nama Layanan": "Clone VPS webmail Server"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.178",
+      "Nama Layanan": "Blade Supermico2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.179",
+      "No": 179.0,
+      "Nama Layanan": "Blade Supermico3"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.180",
+      "No": 180.0,
+      "Nama Layanan": "Clone mail2.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.180",
+      "Nama Layanan": "Blade Supermico4"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.181",
+      "No": 181.0,
+      "Nama Layanan": "Blade Supermico5"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.182",
+      "No": 182.0,
+      "Nama Layanan": "Clone Ldap Server"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.182",
+      "Nama Layanan": "Blade Supermico6"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.183",
+      "No": 183.0,
+      "Nama Layanan": "Clone mail.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.183",
+      "Nama Layanan": "Blade Supermico7"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.184",
+      "No": 184.0,
+      "Nama Layanan": "Blade Supermico8"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.185",
+      "No": 185.0,
+      "Nama Layanan": "APLIKASI SIJEMPOL DISDIK"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.186",
+      "No": 186.0,
+      "Nama Layanan": "Docker-SIAT"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.187",
+      "No": 187.0,
+      "Nama Layanan": "VPS SIKD-APLIKASI"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.188",
+      "No": 188.0,
+      "Nama Layanan": "VPS SIKD-DB"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.189",
+      "No": 189.0,
+      "Nama Layanan": "Aplikasi Risalah Rapat"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.190",
+      "No": 190.0,
+      "Nama Layanan": "BLADE-IBM-NODE6"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.191",
+      "No": 191.0,
+      "Nama Layanan": "Server Dev Alpha"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.192",
+      "No": 192.0,
+      "Nama Layanan": "Server Dev Bravo"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.193",
+      "No": 193.0,
+      "Nama Layanan": "Server Dev Charle"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.194",
+      "No": 194.0,
+      "Nama Layanan": "Server Dev Delta"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.195",
+      "No": 195.0,
+      "Nama Layanan": "VPS SIMAME"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.195",
+      "Nama Layanan": "Planner"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.196",
+      "No": 196.0,
+      "Nama Layanan": "Camera CCTV  baru"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.197",
+      "No": 197.0,
+      "Nama Layanan": "Backup-DB"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.199",
+      "No": 199.0,
+      "Nama Layanan": "VPS aset Bid. TIK"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.199",
+      "Nama Layanan": "prituln"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.200",
+      "No": 200.0,
+      "Nama Layanan": "Monitoring Radio Link"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.201",
+      "No": 201.0,
+      "Nama Layanan": "SIMANJA PIDIE-BKA PROV"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.202",
+      "No": 202.0,
+      "Nama Layanan": "Proxmox LPSE"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.203",
+      "No": 203.0,
+      "Nama Layanan": "MetasploitPro DCPA"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.204",
+      "No": 204.0,
+      "Nama Layanan": "DPB ONLINE DISDIK"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.204",
+      "Nama Layanan": "Metasploitable DCPA"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.205",
+      "No": 205.0,
+      "Nama Layanan": "VPS Portal Pembinaan SMK"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.205",
+      "Nama Layanan": "OSM"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.206",
+      "No": 206.0,
+      "Nama Layanan": "E-Budgeting Bener Meriah"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.207",
+      "No": 207.0,
+      "Nama Layanan": "Testing Blade"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.208",
+      "No": 208.0,
+      "Nama Layanan": "vps drka"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.209",
+      "No": 209.0,
+      "Nama Layanan": "VPS DISHUB-1"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.210",
+      "No": 210.0,
+      "Nama Layanan": "VPS DISHUB-2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.211",
+      "No": 211.0,
+      "Nama Layanan": "Simulasi Hosting 11"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.212",
+      "No": 212.0,
+      "Nama Layanan": "Monitoring Zabbix @ali"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.213",
+      "No": 213.0,
+      "Nama Layanan": "VPS DISHUB-4"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.214",
+      "No": 214.0,
+      "Nama Layanan": "LHKDAI",
+      "Instansi": "DSI"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.215",
+      "No": 215.0,
+      "Nama Layanan": "BPBJ ULP"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.216",
+      "No": 216.0,
+      "Nama Layanan": "simonaPBJ"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.217",
+      "No": 217.0,
+      "Nama Layanan": "VPS-ASET-"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.218",
+      "No": 218.0,
+      "Nama Layanan": "FortiGate 1500D"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.219",
+      "No": 219.0,
+      "Nama Layanan": "simulasi-dc1"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.220",
+      "No": 220.0,
+      "Nama Layanan": "NS_recursive1"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.221",
+      "No": 221.0,
+      "Nama Layanan": "DNS Uji Coba"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.221",
+      "Nama Layanan": "VPS Perekam data keamanan Egov"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.222",
+      "No": 222.0,
+      "Nama Layanan": "NS_Recursive2"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.223",
+      "No": 223.0,
+      "Nama Layanan": "Simulasi NextCloud @galu"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.224",
+      "No": 224.0,
+      "Nama Layanan": "Coba jal"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.225",
+      "No": 225.0,
+      "Nama Layanan": "VPS Aplikasi Sistem Jaminan Produk Halal MPU"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.226",
+      "No": 226.0,
+      "Nama Layanan": "VM Windows "
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.227",
+      "No": 227.0,
+      "Nama Layanan": "VPS e-survey"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.228",
+      "No": 228.0,
+      "Nama Layanan": "VPS Server Dev API Gateway Sistem Integrasi",
+      "Instansi": "Dinas Pendidikan Aceh"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.229",
+      "No": 229.0,
+      "Nama Layanan": "Asset3"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.230",
+      "No": 230.0,
+      "Nama Layanan": "VPS PUPR SIJANTAN TARU"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.231",
+      "No": 231.0,
+      "Nama Layanan": "SERVER LPSE 2021"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.232",
+      "No": 232.0,
+      "Nama Layanan": "VPS App RegVaksin Kab/Kota"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.233",
+      "No": 233.0,
+      "Nama Layanan": "CPANEL"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.234",
+      "No": 234.0,
+      "Nama Layanan": "CPANEL"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.235",
+      "No": 235.0,
+      "Nama Layanan": "Proxmox SIAT"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.236",
+      "No": 236.0,
+      "Nama Layanan": "VPS SIMPKK"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.237",
+      "No": 237.0,
+      "Nama Layanan": "Pritunl"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.238",
+      "No": 238.0,
+      "Nama Layanan": "DNS COBA JAL"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.238",
+      "Nama Layanan": "VPS Dashboard Gubernur Aceh"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.239",
+      "No": 239.0,
+      "Nama Layanan": "sitranspor.acehprov.go.id",
+      "Instansi": "Biro Administrasi Pembangunan"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.239",
+      "Nama Layanan": "wireshark"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.239",
+      "Nama Layanan": "DNS COBA JAL"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.240",
+      "No": 240.0,
+      "Nama Layanan": "VPN Datacenter"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.241",
+      "No": 241.0,
+      "Nama Layanan": "Cacti"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.243",
+      "No": 243.0,
+      "Nama Layanan": "File_Server"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.244",
+      "No": 244.0,
+      "Nama Layanan": "Proxmox"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.245",
+      "No": 245.0,
+      "Nama Layanan": "PNS BOX"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.246",
+      "No": 246.0,
+      "Nama Layanan": "VPS Server Dev Portal SuperApps",
+      "Instansi": "Dinas Pendidikan Aceh"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.247",
+      "No": 247.0,
+      "Nama Layanan": "VPS Server Hosting Aplikasi Existing",
+      "Instansi": "Dinas Pendidikan Aceh"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.248",
+      "No": 248.0,
+      "Nama Layanan": "Switch"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.249",
+      "No": 249.0,
+      "Nama Layanan": "Switch"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.250",
+      "No": 250.0,
+      "Nama Layanan": "Switch"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.251",
+      "No": 251.0,
+      "Nama Layanan": "Switch"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.252",
+      "No": 252.0,
+      "Nama Layanan": "Switch"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.253",
+      "No": 253.0,
+      "Nama Layanan": "Switch"
+    },
+    {
+      "Subnet": "123.108.97",
+      "IP Address": "123.108.97.254",
+      "No": 254.0,
+      "Nama Layanan": "Switch"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.1",
+      "No": 1.0,
+      "Nama Layanan": "Router Core SKPA",
+      "Instansi": "TIK - Diskominsa",
+      "Status": "Aktif",
+      "Lokasi": "NOC TIK"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.2",
+      "No": 2.0,
+      "Nama Layanan": "Metro A - Terminasi TIK",
+      "Instansi": "TIK - Diskominsa",
+      "Status": "Aktif"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.3",
+      "No": 3.0,
+      "Nama Layanan": "Metro A - Terminasi TIK",
+      "Instansi": "TIK - Diskominsa",
+      "Status": "Aktif",
+      "Lokasi": "Bid. TIK Lt. 2"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.4",
+      "No": 4.0,
+      "Nama Layanan": "Metro A - Terminasi Komp. Keistemewaan",
+      "Instansi": "Dinas Syariat Islam",
+      "Status": "Tidak Aktif"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.5",
+      "No": 5.0,
+      "Nama Layanan": "Metro A - Terminasi TIK",
+      "Instansi": "Egov-Diskominsa",
+      "Status": "Aktif",
+      "Lokasi": "Bid-Egov"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.6",
+      "No": 6.0,
+      "Nama Layanan": "Metro A - Terminasi TIK",
+      "Instansi": "LPSE",
+      "Status": "None"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.7",
+      "No": 7.0,
+      "Nama Layanan": "Metro A - Terminasi Sekda",
+      "Instansi": "Setda",
+      "Status": "Aktif"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.8",
+      "No": 8.0,
+      "Nama Layanan": "Metro A - Terminasi TIK",
+      "Instansi": "Badan Pengelola Keuangan Aceh",
+      "Status": "Aktif"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.9",
+      "No": 9.0,
+      "Nama Layanan": "Metro A - Terminasi Sekda",
+      "Status": "Tidak Aktif",
+      "Lokasi": "pendopo gubernur"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.10",
+      "No": 10.0,
+      "Nama Layanan": "Metro A - Terminasi Diskominsa",
+      "Instansi": "Diskominfo Aceh",
+      "Status": "None",
+      "Lokasi": "Diskominfo Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.11",
+      "No": 11.0,
+      "Nama Layanan": "Metro A - Terminasi TIK",
+      "Instansi": "DRKA",
+      "Status": "Aktif",
+      "Lokasi": "DRKA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.12",
+      "No": 12.0,
+      "Nama Layanan": "Metro A - Terminasi Diskominsa",
+      "Instansi": "Dinas Sosial Aceh",
+      "Status": "Aktif",
+      "Lokasi": "Dinas Sosial Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.13",
+      "No": 13.0,
+      "Nama Layanan": "Jaringan SKPA - ICON",
+      "Instansi": "Dis Kebudayaan dan Pariwisata Aceh",
+      "Status": "Aktif",
+      "Lokasi": "Dis Kebudayaan dan Pariwisata Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.14",
+      "No": 14.0,
+      "Nama Layanan": "Metro A - Terminasi TIK",
+      "Instansi": "BPSDMA",
+      "Status": "Aktif",
+      "Lokasi": "BPSDMA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.15",
+      "No": 15.0,
+      "Nama Layanan": "Metro A - Terminasi Sekda",
+      "Instansi": "Sekda Keuangan",
+      "Status": "Aktif",
+      "Lokasi": "Sekda"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.16",
+      "No": 16.0,
+      "Nama Layanan": "Jaringan SKPA - ICON",
+      "Instansi": "Dis Tenaga Kerja dan Mosduk Aceh",
+      "Status": "Aktif",
+      "Lokasi": "Dis Tenaga Kerja dan Mosduk Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.17",
+      "No": 17.0,
+      "Nama Layanan": "Metro A - Terminasi TIK",
+      "Instansi": "RSJA",
+      "Status": "Aktif",
+      "Lokasi": "RSJA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.18",
+      "No": 18.0,
+      "Nama Layanan": "Metro A - Terminasi Diskominsa",
+      "Instansi": "Rumah Dinas Wagub ",
+      "Status": "Aktif",
+      "Lokasi": "Rumah Dinas Wagub "
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.21",
+      "No": 21.0,
+      "Nama Layanan": "FO",
+      "Instansi": "Inspektorat Aceh",
+      "Status": "Aktif",
+      "Lokasi": "Inspektorat Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.24",
+      "No": 24.0,
+      "Nama Layanan": "FO",
+      "Instansi": "BAPPEDA",
+      "Status": "None",
+      "Lokasi": "BAPPEDA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.26",
+      "No": 26.0,
+      "Nama Layanan": "FO",
+      "Instansi": "Dinas Pendidikan Dayah Aceh",
+      "Status": "Aktif",
+      "Lokasi": "Dinas Pendidikan Dayah Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.30",
+      "No": 30.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Dinas Pertanian & Perkebunan Aceh",
+      "Status": "None",
+      "Lokasi": "Dinas Pertanian & Perkebunan Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.32",
+      "No": 32.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "BKA Aceh",
+      "Status": "Aktif",
+      "Lokasi": "BKA Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.34",
+      "No": 34.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Dinas Syariat Islam Aceh",
+      "Status": "Aktif",
+      "Lokasi": "Dinas Syariat Islam Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.35",
+      "No": 35.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Dinas Perhubungan Aceh",
+      "Status": "None",
+      "Lokasi": "Dinas Perhubungan Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.36",
+      "No": 36.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "BPBA",
+      "Status": "Aktif",
+      "Lokasi": "BPBA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.40",
+      "No": 40.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Dinas Pendidikan Aceh",
+      "Status": "Tidak Aktif",
+      "Lokasi": "Dinas Pendidikan Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.41",
+      "No": 41.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "DPRA",
+      "Status": "Aktif",
+      "Lokasi": "DPRA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.43",
+      "No": 43.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Badan Kesatuan Bangsa dan politik Aceh",
+      "Status": "Aktif",
+      "Lokasi": "Badan Kesatuan Bangsa dan politik Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.44",
+      "No": 44.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Dinas Pangan Aceh",
+      "Status": "Aktif",
+      "Lokasi": "Dinas Pangan Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.46",
+      "No": 46.0,
+      "Nama Layanan": "FO",
+      "Instansi": "Kopri",
+      "Status": "Aktif",
+      "Lokasi": "Kopri"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.48",
+      "No": 48.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Baitul Mal Aceh",
+      "Status": "Aktif",
+      "Lokasi": "Baitul Mal Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.49",
+      "No": 49.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "PDGA Bappeda Aceh",
+      "Status": "Tidak Aktif",
+      "Lokasi": "Bappeda Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.50",
+      "No": 50.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Majelis Adat Aceh",
+      "Status": "Aktif",
+      "Lokasi": "Majelis Adat Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.52",
+      "No": 52.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Dinas Pertanahan Aceh",
+      "Status": "Aktif",
+      "Lokasi": "Dinas Pertanahan Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.53",
+      "No": 53.0,
+      "Nama Layanan": "FO",
+      "Instansi": "P2K",
+      "Status": "Aktif",
+      "Lokasi": "P2K"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.60",
+      "No": 60.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Depo Trans Koetaradja (Commend Center)",
+      "Status": "Aktif",
+      "Lokasi": "Depo Trans Koetaradja (Commend Center)"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.83",
+      "No": 83.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Depo Trans Koetaradja (Office)",
+      "Status": "Tidak Aktif",
+      "Lokasi": "Depo Trans Koetaradja (Office)"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.84",
+      "No": 84.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Posko Corona BPBA",
+      "Status": "Tidak Aktif",
+      "Lokasi": "Posko Corona BPBA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.88",
+      "No": 88.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "DISHUB Gedung DKP",
+      "Status": "Tidak Aktif",
+      "Lokasi": "DISHUB Gedung DKP"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.91",
+      "No": 91.0,
+      "Nama Layanan": "FO",
+      "Instansi": "RSUZA",
+      "Status": "Aktif",
+      "Lokasi": "RSUZA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.95",
+      "No": 95.0,
+      "Nama Layanan": "FO",
+      "Instansi": "RSUZA",
+      "Status": "Aktif",
+      "Lokasi": "RSUZA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.97",
+      "No": 97.0,
+      "Nama Layanan": "FO",
+      "Instansi": "RSUZA",
+      "Status": "Aktif",
+      "Lokasi": "RSUZA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.101",
+      "No": 101.0,
+      "Nama Layanan": "FO",
+      "Instansi": "Setda Aceh",
+      "Status": "Tidak Aktif",
+      "Lokasi": "kantor Gubernur"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.111",
+      "No": 111.0,
+      "Nama Layanan": "Jaringan Metro SP. Rima ",
+      "Instansi": "Dinas Perhubungan Aceh",
+      "Status": "Tidak Aktif",
+      "Lokasi": "Dinas Perhubungan Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.130",
+      "No": 130.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "DPRA Vicon",
+      "Status": "Tidak Aktif",
+      "Lokasi": "DPRA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.132",
+      "No": 132.0,
+      "Nama Layanan": "FO",
+      "Instansi": "RSUZA",
+      "Status": "Tidak Aktif",
+      "Lokasi": "RSUZA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.133",
+      "No": 133.0,
+      "Nama Layanan": "FO",
+      "Instansi": "RSUZA",
+      "Status": "Aktif",
+      "Lokasi": "RSUZA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.135",
+      "No": 135.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Dinas Pendidikan Aceh",
+      "Status": "Tidak Aktif",
+      "Lokasi": "Dinas Pendidikan Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.138",
+      "No": 138.0,
+      "Nama Layanan": "FO",
+      "Instansi": "Dinas Pendidikan Dayah Aceh",
+      "Status": "Tidak Aktif",
+      "Lokasi": "Dinas Pendidikan Dayah Aceh"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.144",
+      "No": 144.0,
+      "Nama Layanan": "FO",
+      "Instansi": "RSUZA",
+      "Status": "Tidak Aktif",
+      "Lokasi": "RSUZA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.145",
+      "No": 145.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "BKA",
+      "Status": "Aktif",
+      "Lokasi": "BKA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.147",
+      "No": 147.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Sekretariat MPA",
+      "Status": "Tidak Aktif",
+      "Lokasi": "Sekretariat MPA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.155",
+      "No": 155.0,
+      "Nama Layanan": "Fortinet ICON",
+      "Instansi": "ICON",
+      "Status": "Aktif",
+      "Lokasi": "Fortiget ICON"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.160",
+      "No": 160.0,
+      "Nama Layanan": "DRKA",
+      "Status": "None"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.200",
+      "No": 200.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Switch Distribusi BPBA",
+      "Status": "Aktif",
+      "Lokasi": "Kantor BPBA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.203",
+      "No": 203.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Switch Distribusi DPRA",
+      "Status": "Aktif",
+      "Lokasi": "Kantor DPRA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.204",
+      "No": 204.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Switch Distribusi Dishub",
+      "Status": "Aktif",
+      "Lokasi": "Kantor Dishub"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.205",
+      "No": 205.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Switch Distribusi Kesbangpol",
+      "Status": "Aktif",
+      "Lokasi": "Kantor Kesbangpol"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.206",
+      "No": 206.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Switch Distribusi Pariwisata",
+      "Status": "Aktif",
+      "Lokasi": "Kantor Pariwisata"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.207",
+      "No": 207.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Switch Distribusi Pertanahan",
+      "Status": "Aktif",
+      "Lokasi": "Kantor Pertanahan"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.208",
+      "No": 208.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Switch Distribusi BKA",
+      "Status": "Tidak Aktif",
+      "Lokasi": "Kantor BKA"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.209",
+      "No": 209.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Switch Distribusi Dishub2 Ged.DKP",
+      "Status": "Aktif",
+      "Lokasi": "Kantor Dishub"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.211",
+      "No": 211.0,
+      "Nama Layanan": "Metro-A",
+      "Instansi": "Switch Distribusi KOMINFO",
+      "Status": "Tidak Aktif",
+      "Lokasi": "Kantor Diskominfo &sandi"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.222",
+      "No": 222.0,
+      "Nama Layanan": "Open Port Jaringan",
+      "Instansi": "RSJ Aceh",
+      "Status": "Aktif"
+    },
+    {
+      "Subnet": "123.108.98",
+      "IP Address": "123.108.98.224",
+      "No": 224.0,
+      "Nama Layanan": "Lab Kes",
+      "Instansi": "Dinas Kesehatan Aceh",
+      "Status": "Aktif"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.5",
+      "No": "=1+A6",
+      "Nama Layanan": "01. UPTD Telematika",
+      "Instansi": "Diskominsa Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.6",
+      "No": "=1+A7",
+      "Nama Layanan": "04. Dinas Perhubungan",
+      "Instansi": "Dinas Perhubungan Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.7",
+      "No": "=1+A8",
+      "Nama Layanan": "03. Trafic_Light"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.8",
+      "No": "=1+A9",
+      "Nama Layanan": "02. Bandara SIM"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.9",
+      "No": "=1+A10",
+      "Nama Layanan": "04. Dinas Perhubungan",
+      "Instansi": "Dinas Perhubungan Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.10",
+      "No": "=1+A11",
+      "Nama Layanan": "05. Dinas Kominfo dan Sandi",
+      "Instansi": "Diskominsa Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.11",
+      "No": "=1+A12",
+      "Nama Layanan": "06. DRKA",
+      "Instansi": "DRKA"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.12",
+      "No": "=1+A13",
+      "Nama Layanan": "07. Dinas Sosial",
+      "Instansi": "Dinas Sosial Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.13",
+      "No": "=1+A14",
+      "Nama Layanan": 2.0
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.14",
+      "No": "=1+A15",
+      "Nama Layanan": "09. BPSDM",
+      "Instansi": "BPSDM Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.15",
+      "No": "=1+A16",
+      "Nama Layanan": "09. BPSDM",
+      "Instansi": "BPSDM Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.16",
+      "No": "=1+A17",
+      "Nama Layanan": "09. BPSDM ",
+      "Instansi": "BPSDM Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.16",
+      "No": "=1+A18",
+      "Nama Layanan": "10. MOBDUK",
+      "Instansi": "Disnakermobduk Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.17",
+      "No": "=1+A19",
+      "Nama Layanan": "11. Rumah Sakit Jiwa",
+      "Instansi": "Rumah Sakit Jiwa"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.18",
+      "No": "=1+A20",
+      "Nama Layanan": "12. Lab Seksi Keamanan",
+      "Instansi": "Diskominsa Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.19",
+      "No": "=1+A21",
+      "Nama Layanan": "13. DISPERINDAG",
+      "Instansi": "Disperindag Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.20",
+      "No": "=1+A22",
+      "Nama Layanan": "14. DPMGA",
+      "Instansi": "DPMG Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.21",
+      "No": "=1+A23",
+      "Nama Layanan": "15.Inspektorat",
+      "Instansi": "Inspektorat Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.22",
+      "No": "=1+A24",
+      "Nama Layanan": "16. Dinas Kelautan dan Perikanan",
+      "Instansi": "Dinas Kelautan dan Perikanan Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.23",
+      "No": "=1+A25",
+      "Nama Layanan": "17. DISKOP",
+      "Instansi": "Diskop UKM Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.24",
+      "No": "=1+A26",
+      "Nama Layanan": "18. BAPPEDA",
+      "Instansi": "BAPPEDA Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.25",
+      "No": "=1+A27",
+      "Nama Layanan": "19. DINKES",
+      "Instansi": "Dinkes Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.26",
+      "No": "=1+A28",
+      "Nama Layanan": "20.Pendidikan Dayah",
+      "Instansi": "Dinas Pendidikan Dayah Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.27",
+      "No": "=1+A29",
+      "Nama Layanan": "21. Satpol PP",
+      "Instansi": "Satpol PP dan WH Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.28",
+      "No": "=1+A30",
+      "Nama Layanan": "22. DISPORA",
+      "Instansi": "Dispora Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.29",
+      "No": "=1+A31",
+      "Nama Layanan": "23. DINAS PU PR",
+      "Instansi": "Dinas PUPR Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.30",
+      "No": "=1+A32",
+      "Nama Layanan": "91. Perkebunan",
+      "Instansi": "Dinas Pertanian dan Perkebunan Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.31",
+      "No": "=1+A33",
+      "Nama Layanan": "24. Distamben",
+      "Instansi": "Dinas ESDM Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.32",
+      "No": "=1+A34",
+      "Nama Layanan": "25. BKA",
+      "Instansi": "BKA"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.33",
+      "No": "=1+A35",
+      "Nama Layanan": "26. Dinas Pertanian",
+      "Instansi": "Dinas Pertanian dan Perkebunan Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.34",
+      "No": "=1+A36",
+      "Nama Layanan": "27. Dinas Syariat Islam",
+      "Instansi": "Dinas Syariat Islam Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.35",
+      "No": "=1+A37",
+      "Nama Layanan": "28. MPD",
+      "Instansi": "MPD Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.36",
+      "No": "=1+A38",
+      "Nama Layanan": "29. BPBA",
+      "Instansi": "BPBA"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.37",
+      "No": "=1+A39",
+      "Nama Layanan": "30. Dinas Kehutanan",
+      "Instansi": "DLHK Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.38",
+      "No": "=1+A40",
+      "Nama Layanan": "31. Peternakan",
+      "Instansi": "Dinas Peternakan Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.39",
+      "No": "=1+A41",
+      "Nama Layanan": "32. RSIA",
+      "Instansi": "RSIA"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.40",
+      "No": "=1+A42",
+      "Nama Layanan": "33. DISDIK",
+      "Instansi": "Dinas Pedidikan Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.41",
+      "No": "=1+A43",
+      "Nama Layanan": "34. DPRA",
+      "Instansi": "DPRA"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.42",
+      "No": "=1+A44",
+      "Nama Layanan": "35. Pustaka"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.43",
+      "No": "=1+A45",
+      "Nama Layanan": "36. Kesbangpol"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.44",
+      "No": "=1+A46",
+      "Nama Layanan": "37. Dinas Pangan"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.45",
+      "No": "=1+A47",
+      "Nama Layanan": "38. DP3A"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.46",
+      "No": "=1+A48",
+      "Nama Layanan": "39. Rumah Dinas Wagub"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.47",
+      "No": "=1+A49",
+      "Nama Layanan": "40. BP2T"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.48",
+      "No": "=1+A50",
+      "Nama Layanan": "41. BAITULMAL"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.49",
+      "No": "=1+A51",
+      "Nama Layanan": "42. PDGA"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.50",
+      "No": "=1+A52",
+      "Nama Layanan": "43. MAA"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.51",
+      "No": "=1+A53",
+      "Nama Layanan": "44. MPU"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.52",
+      "No": "=1+A54",
+      "Nama Layanan": "45. Pertanahan"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.53",
+      "No": "=1+A55",
+      "Nama Layanan": "46. Lpse Zakir kupi"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.54",
+      "No": "=1+A56",
+      "Nama Layanan": "47. Wali Nanggroe"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.55",
+      "No": "=1+A57",
+      "Nama Layanan": "48. LPSE PSI"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.56",
+      "No": "=1+A58",
+      "Nama Layanan": "49. Arsip (Bidang Depo)"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.58",
+      "No": "=1+A59",
+      "Nama Layanan": "50. Dekranas"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.59",
+      "No": "=1+A60",
+      "Nama Layanan": "96. R Bang Ricki"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.60",
+      "No": "=1+A61",
+      "Nama Layanan": "51. LPSE-ACEH"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.61",
+      "No": "=1+A62",
+      "Nama Layanan": "52. BTS-GUB"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.62",
+      "No": "=1+A63",
+      "Nama Layanan": "53. Basarnas"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.64",
+      "No": "=1+A64",
+      "Nama Layanan": "55. BRA"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.65",
+      "No": "=1+A65",
+      "Nama Layanan": "56. Pustaka Wilayah"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.66",
+      "No": "=1+A66",
+      "Nama Layanan": "57. Kajati"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.67",
+      "No": "=1+A67",
+      "Nama Layanan": "58. Gampong Kota Baru"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.68",
+      "No": "=1+A68",
+      "Nama Layanan": "59. Banwidth Test UPTD"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.69",
+      "No": "=1+A69",
+      "Nama Layanan": "60. Pengairan"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.70",
+      "No": "=1+A70",
+      "Nama Layanan": "https://mr-esamsat.acehprov.go.id:379",
+      "Instansi": "BPKA"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.71",
+      "No": "=1+A71",
+      "Nama Layanan": "62. Analis_kesehatan"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.72",
+      "No": "=1+A72",
+      "Nama Layanan": "63. Pondopo Park"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.73",
+      "No": "=1+A73",
+      "Nama Layanan": "97. Hotspot Terminal"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.74",
+      "No": "=1+A74",
+      "Nama Layanan": "64. UPTD Bapedalda"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.75",
+      "No": "=1+A75",
+      "Nama Layanan": "65. Dishub Uji Coba"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.76",
+      "No": "=1+A76",
+      "Nama Layanan": "66. LPSE Elcomandante"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.77",
+      "No": "=1+A77",
+      "Nama Layanan": "67. LPSE Cut Nun"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.79",
+      "No": "=1+A78",
+      "Nama Layanan": "68. Hotspot Dekranas"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.80",
+      "No": "=1+A79",
+      "Nama Layanan": "69. Hotspot RSIA"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.81",
+      "No": "=1+A80",
+      "Nama Layanan": "70. Hotspot UPTD Telematika"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.82",
+      "No": "=1+A81",
+      "Nama Layanan": "71. LPSE Cipta Karya"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.83",
+      "No": "=1+A82",
+      "Nama Layanan": "72. Hotspot Kajati"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.84",
+      "No": "=1+A83",
+      "Nama Layanan": "73. CCTV BTS UPTD"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.85",
+      "No": "=1+A84",
+      "Nama Layanan": "74. UBNT Air Control"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.86",
+      "No": "=1+A85",
+      "Nama Layanan": "75. UBNT Control CCTV"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.87",
+      "No": "=1+A86",
+      "Nama Layanan": "76. Rumah Subbag Program"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.88",
+      "No": "=1+A87",
+      "Nama Layanan": "77. Rumah KA UPTD"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.89",
+      "No": "=1+A88",
+      "Nama Layanan": "78. Rumah Buk Mer"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.90",
+      "No": "=1+A89",
+      "Nama Layanan": "ROIP BKO(HOME)"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.91",
+      "No": "=1+A90",
+      "Nama Layanan": "82. Rumah Pak Baktiar"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.92",
+      "No": "=1+A91",
+      "Nama Layanan": "81. Rumah Kabit TIK"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.93",
+      "No": "=1+A92",
+      "Nama Layanan": "80. RSUDZA"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.94",
+      "No": "=1+A93",
+      "Nama Layanan": "83. Rumah Ibnu"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.95",
+      "No": "=1+A94",
+      "Nama Layanan": "84. Rumah TU UPTD"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.96",
+      "No": "=1+A95",
+      "Nama Layanan": "85. Rumah Pak Bus"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.98",
+      "No": "=1+A96",
+      "Nama Layanan": "88. URC1"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.99",
+      "No": "=1+A97",
+      "Nama Layanan": "88. URC1"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.100",
+      "No": "=1+A98",
+      "Nama Layanan": "88. URC1"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.101",
+      "No": "=1+A99",
+      "Nama Layanan": "bg_ipes_Uji_Coba"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.102",
+      "No": "=1+A100",
+      "Nama Layanan": "Hotspot Kominfo Pusat"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.103",
+      "No": "=1+A101",
+      "Nama Layanan": "Hotspot BAPPEDA"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.104",
+      "No": "=1+A102",
+      "Nama Layanan": "Hotspot Kantor Gubernur"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.105",
+      "No": "=1+A103",
+      "Nama Layanan": "Manajemen Radio UNBT Dishub Aceh",
+      "Instansi": "Dinas Perhubungan Aceh"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.110",
+      "No": "=1+A104",
+      "Nama Layanan": "Meseum Tsunami"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.123",
+      "No": "=1+A105",
+      "Nama Layanan": "CCTV-Bid.TIK"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.188",
+      "No": "=1+A107",
+      "Nama Layanan": "92. CCTV UPTD"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.201",
+      "No": "=1+A108",
+      "Nama Layanan": "SWITCH-BTS-BAPPEDA"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.209",
+      "No": "=1+A109",
+      "Nama Layanan": "SWITCH-BTS-KUTA ALAM"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.210",
+      "No": "=1+A110",
+      "Nama Layanan": "61. E_Samsat"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.221",
+      "No": "=1+A111",
+      "Nama Layanan": "IP COMMAND CENTER"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.222",
+      "No": "=1+A112",
+      "Nama Layanan": "90. URC radio"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.223",
+      "No": "=1+A113",
+      "Nama Layanan": "Seksi Infrastruktur"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.224",
+      "No": "=1+A114",
+      "Nama Layanan": "PT ACEH LINK ( ISP )"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.224",
+      "No": "=1+A115",
+      "Nama Layanan": "Seksi Infrastruktur"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.225",
+      "No": "=1+A116",
+      "Nama Layanan": "atsung (kasi tik) "
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.226",
+      "No": "=1+A117",
+      "Nama Layanan": "Seksi Infrastruktur"
+    },
+    {
+      "Subnet": "123.108.99",
+      "IP Address": "123.108.99.227",
+      "No": 117.0,
+      "Nama Layanan": "Uji Neucentrix"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.2",
+      "No": 2.0,
+      "Nama Layanan": "UPPKB Seumadam - Aceh Tamiang DISHUB"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.3",
+      "No": 3.0,
+      "Nama Layanan": "UPPKB Jontor - Subulussalam DISHUB"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.4",
+      "No": 4.0,
+      "Nama Layanan": "04. Mediacenter Tamiang"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.5",
+      "No": 5.0,
+      "Nama Layanan": "05. Mediacenter Aceh Timur"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.6",
+      "No": 6.0,
+      "Nama Layanan": "06. Mediacenter Subulussalam"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.7",
+      "No": 7.0,
+      "Nama Layanan": "07. Mediacenter Sabang"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.8",
+      "No": 8.0,
+      "Nama Layanan": "07. Mediacenter Sabang"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.9",
+      "No": 9.0,
+      "Nama Layanan": "09. Extra Biding LPSE Sabang"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.10",
+      "No": 10.0,
+      "Nama Layanan": "10. Extra Biding LPSE Aceh Timur"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.11",
+      "No": 11.0,
+      "Nama Layanan": "11. Extra Biding LPSE Subulussalam"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.12",
+      "No": 12.0,
+      "Nama Layanan": "12. Mediacenter Aceh Singkil"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.13",
+      "No": 13.0,
+      "Nama Layanan": "13. Dinas Kominfo Aceh Besar"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.14",
+      "No": 14.0,
+      "Nama Layanan": "14. Dinas Kominfo Pidie"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.15",
+      "No": 15.0,
+      "Nama Layanan": "15. Dinas Kominfo Pidie Jaya"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.16",
+      "No": 16.0,
+      "Nama Layanan": "16. Dinas Kominfo Bireuen"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.17",
+      "No": 17.0,
+      "Nama Layanan": "17. Dinas Kominfo Kota Lhokseumawe"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.18",
+      "No": 18.0,
+      "Nama Layanan": "18. Kominfo Aceh Utara"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.19",
+      "No": 19.0,
+      "Nama Layanan": "19. Dinas Kominfo Kota Langsa"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.20",
+      "No": 20.0,
+      "Nama Layanan": "20. Dinas Kominfo Aceh Tengah"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.21",
+      "No": 21.0,
+      "Nama Layanan": "21. Kominfo Gayo Lues"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.22",
+      "No": 22.0,
+      "Nama Layanan": "22. Dinas Kominfo Aceh Tenggara"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.23",
+      "No": 23.0,
+      "Nama Layanan": "23. Dinas Kominfo Aceh Selatan"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.24",
+      "No": 24.0,
+      "Nama Layanan": "24. Dinas Kominfo Aceh Barat Daya"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.25",
+      "No": 25.0,
+      "Nama Layanan": "25. Dinas Kominfo Nagan Raya"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.26",
+      "No": 26.0,
+      "Nama Layanan": "26. Dinas Kominfo Aceh Barat"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.27",
+      "No": 27.0,
+      "Nama Layanan": "27. Dinas Kominfo Aceh Jaya"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.28",
+      "No": 28.0,
+      "Nama Layanan": "28. Dinas Kominfo Simeulue"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.29",
+      "No": 29.0,
+      "Nama Layanan": "29. Perwakilan Medan"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.30",
+      "No": 30.0,
+      "Nama Layanan": "30. Badan Penghubung Pemerintah Aceh di Jakarta"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.31",
+      "No": 31.0,
+      "Nama Layanan": "31. Cabang Dinas Pendidikan Wilayah Kabupaten Aceh Barat"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.32",
+      "No": 32.0,
+      "Nama Layanan": "32. Cabang Dinas Pendidikan Wilayah Kabupaten Aceh Barat Daya"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.33",
+      "No": 33.0,
+      "Nama Layanan": "33. Cabang Dinas Pendidikan Wilayah Kabupaten Aceh Tenggara"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.34",
+      "No": 34.0,
+      "Nama Layanan": "34. Cabang Dinas Pendidikan Wilayah Langsa"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.35",
+      "No": 35.0,
+      "Nama Layanan": "35. Cabang Dinas Pendidikan Wilayah Kabupaten Pidie "
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.36",
+      "No": 36.0,
+      "Nama Layanan": "36. Cabang Dinas Pendidikan Wilayah Kota Lhokseumawe"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.37",
+      "No": 37.0,
+      "Nama Layanan": "37. Cabang Dinas Pendidikan Wilayah Kabupaten Aceh Selatan"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.38",
+      "No": 38.0,
+      "Nama Layanan": "38. UPTD Mekanisasi Pertanian (Distanbun)"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.39",
+      "No": 39.0,
+      "Nama Layanan": "39. UPTD Balai Benih Hortikultura, Tanaman Pangan dan Tanaman Perkebunan"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.40",
+      "No": 40.0,
+      "Nama Layanan": "40. UPTD Balai Ternak Non Ruminansia"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.41",
+      "No": 41.0,
+      "Nama Layanan": "41. UPTD BTNR Dinas Peternakan"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.42",
+      "No": 42.0,
+      "Nama Layanan": "42. UPTD Pelabuhan Perikanan Nusantara Idi"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.43",
+      "No": 43.0,
+      "Nama Layanan": "43. Bapelkes Dinkes Aceh (Jantho)"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.44",
+      "No": 44.0,
+      "Nama Layanan": "44. UPTD KPH Tahura Pocut Meurah Intan (Dinas Kehutanan)"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.45",
+      "No": 45.0,
+      "Nama Layanan": "45. UPTD Balai Pengujian dan Sertifikasi Mutu Barang  (Disperindag)"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.46",
+      "No": 46.0,
+      "Nama Layanan": "46. UPTD Pengelolaan Dayah Perbatasan dan Dayah Madrasah Ulumul Qur"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.47",
+      "No": 47.0,
+      "Nama Layanan": "47. Pelabuhan Labuhan Haji Aceh Selatan"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.48",
+      "No": 48.0,
+      "Nama Layanan": "48. Pelabuhan Kualan Bubon Aceh Barat"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.49",
+      "No": 49.0,
+      "Nama Layanan": "49. Pelabuhan Singkil Aceh Singkil "
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.50",
+      "No": 50.0,
+      "Nama Layanan": "50. UPTD Jalan dan Jembatan Wil.IV"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.51",
+      "No": 51.0,
+      "Nama Layanan": "51. UPTD Jalan dan Jembatan Wil.III"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.52",
+      "No": 52.0,
+      "Nama Layanan": "52. UPTD Jalan dan Jembatan Wil.II"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.53",
+      "No": 53.0,
+      "Nama Layanan": "53. UPTD Jalan dan Jembatan Wilayah V"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.54",
+      "No": 54.0,
+      "Nama Layanan": "54. Terminal Tamiang DISHUB"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.55",
+      "No": 55.0,
+      "Nama Layanan": "55. Samsat Lhokseumawe"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.56",
+      "No": 56.0,
+      "Nama Layanan": "56. Samsat Aceh Utara"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.57",
+      "No": 57.0,
+      "Nama Layanan": "57. Samsat Aceh Tengah"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.58",
+      "No": 58.0,
+      "Nama Layanan": "58. Samsat ABDYA"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.59",
+      "No": 59.0,
+      "Nama Layanan": "59. Terminal Type B Bener Meriah Dishub"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.60",
+      "No": 60.0,
+      "Nama Layanan": "60. Unit Diklat Pertanian Perkebunan Sare"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.61",
+      "No": 61.0,
+      "Nama Layanan": "61. Samsat Aceh Tenggara"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.62",
+      "No": 62.0,
+      "Nama Layanan": "62. Samsat Gayo Lues"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.63",
+      "No": 63.0,
+      "Nama Layanan": "63. Samsat Aceh Singkil"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.64",
+      "No": 64.0,
+      "Nama Layanan": "64. Samsat Simeulue"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.65",
+      "No": 65.0,
+      "Nama Layanan": "65. Samsat Subulussalam"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.66",
+      "No": 66.0,
+      "Nama Layanan": "66. Samsat Aceh Tamiang "
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.67",
+      "No": 67.0,
+      "Nama Layanan": "67. Samsat Langsa"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.68",
+      "No": 68.0,
+      "Nama Layanan": "68. Samsat Aceh Timur"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.69",
+      "No": 69.0,
+      "Nama Layanan": "69. Samsat Aceh Selatan"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.70",
+      "No": 70.0,
+      "Nama Layanan": "70. Samsat Nagan Raya"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.71",
+      "No": 71.0,
+      "Nama Layanan": "71. Samsat Aceh Barat"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.72",
+      "No": 72.0,
+      "Nama Layanan": "72. Samsat Aceh Jaya"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.73",
+      "No": 73.0,
+      "Nama Layanan": "73. Samsat Bener Meriah"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.74",
+      "No": 74.0,
+      "Nama Layanan": "74. Samsat Bireun"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.75",
+      "No": 75.0,
+      "Nama Layanan": "75. Samsat Pidie Jaya"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.76",
+      "No": 76.0,
+      "Nama Layanan": "76. Samsat Pidie"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.77",
+      "No": 77.0,
+      "Nama Layanan": "77. Samsat Sabang"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.78",
+      "No": 78.0,
+      "Nama Layanan": "78. Terminal Tipe B Aceh Jaya"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.79",
+      "No": 79.0,
+      "Nama Layanan": "79. Dayah Abu Tumin"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.80",
+      "No": 80.0,
+      "Nama Layanan": "80. Server KPK Aceh Tengah"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.81",
+      "No": 81.0,
+      "Nama Layanan": "81. Server Finger Print Aceh Tengah"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.82",
+      "No": 82.0,
+      "Nama Layanan": "82. Server E-kinerja Aceh Tengah"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.83",
+      "No": 83.0,
+      "Nama Layanan": "83. Server Aplikasi SIPKD Langsa"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.84",
+      "No": 84.0,
+      "Nama Layanan": "84. Server Aplikasi SISKEUDES Langsa"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.85",
+      "No": 85.0,
+      "Nama Layanan": "85. Server CCTV Langsa"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.86",
+      "No": 86.0,
+      "Nama Layanan": "86.MPP MEULABOH ACEH BARAT"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.87",
+      "No": 87.0,
+      "Nama Layanan": "87.MPP LAMLO PIDIE"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.88",
+      "No": 88.0,
+      "Nama Layanan": "88.MPP RIMO ACEH SINGKIL"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.89",
+      "No": 89.0,
+      "Nama Layanan": "89.MPP MATANG BIREUEN"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.90",
+      "No": 90.0,
+      "Nama Layanan": "90.UPTD KESATUAN PENGELOLAAN HUTAN WILAYAH II"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.91",
+      "No": 91.0,
+      "Nama Layanan": "91.UPTD KESATUAN PENGELOLAAN HUTAN WILAYAH V"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.92",
+      "No": 92.0,
+      "Nama Layanan": "92.UPTD KESATUAN PENGELOLAAN HUTAN WILAYAH VII"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.93",
+      "No": 93.0,
+      "Nama Layanan": "93.UPTD KESATUAN PENGELOLAAN HUTAN WILAYAH VIII"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.94",
+      "No": 94.0,
+      "Nama Layanan": "94.UPTD KESATUAN PENGELOLAAN HUTAN WILAYAH IX"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.95",
+      "No": 95.0,
+      "Nama Layanan": "95.TERMINAL TIPE B ACEH BARAT DAYA"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.96",
+      "No": 96.0,
+      "Nama Layanan": "96.TERMINAL TIPE B ACEH SELATAN"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.97",
+      "No": 97.0,
+      "Nama Layanan": "97.TERMINAL TIPE B PIDIE"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.98",
+      "No": 98.0,
+      "Nama Layanan": "98.TERMINAL TIPE B BIREUEN"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.99",
+      "No": 99.0,
+      "Nama Layanan": "99.TERMINAL TIPE B PIDIE JAYA"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.100",
+      "No": 100.0,
+      "Nama Layanan": "100.TERMINAL TIPE B RIMO "
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.101",
+      "No": 101.0,
+      "Nama Layanan": "101.WALIKOTA LANGSA"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.102",
+      "No": 102.0,
+      "Nama Layanan": "102. Dayah Putri Almadinatuniyah Babusalam"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.103",
+      "No": 103.0,
+      "Nama Layanan": "103. Samsat Aceh Besar"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.104",
+      "No": 104.0,
+      "Nama Layanan": "104. UPTD Pengelola Kawasan Konservasi Perairan Daerah"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.110",
+      "No": 110.0,
+      "Nama Layanan": "MPP Meulaboh Aceh Barat"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.201",
+      "No": 201.0,
+      "Nama Layanan": "Kominfo Kota Banda Aceh"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.201",
+      "Nama Layanan": "Kominfo Kota Banda Aceh"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.222",
+      "No": 222.0,
+      "Nama Layanan": "Testing"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.222",
+      "Nama Layanan": "Testing"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.254",
+      "No": 254.0,
+      "Nama Layanan": "254. Fortigate"
+    },
+    {
+      "Subnet": "123.108.100",
+      "IP Address": "123.108.100.254",
+      "Nama Layanan": "254. Fortigate"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.3",
+      "No": 1.0,
+      "Nama Layanan": "vpn2.acehprov.go.id",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.6",
+      "No": 2.0,
+      "Nama Layanan": "NS1",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.11",
+      "No": 3.0,
+      "Nama Layanan": "haba.acehprov.go.id",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.12",
+      "No": 4.0,
+      "Nama Layanan": "TP4D-Kejati",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.13",
+      "No": 5.0,
+      "Nama Layanan": "SIAT-DELTA",
+      "Instansi": "Bidang E-Gov",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.15",
+      "No": 6.0,
+      "Nama Layanan": "smtpgw",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.18",
+      "No": 7.0,
+      "Nama Layanan": "FrontCMS-acehprov.go.id",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.20",
+      "No": 8.0,
+      "Nama Layanan": "smtplpse",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.21",
+      "No": 9.0,
+      "Nama Layanan": "Registry",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.22",
+      "No": 10.0,
+      "Nama Layanan": "redaksi.acehprov.go.id",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.23",
+      "No": 11.0,
+      "Nama Layanan": "EDOC",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.24",
+      "No": 12.0,
+      "Nama Layanan": "vpskominfoaceh",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.50",
+      "No": 13.0,
+      "Nama Layanan": "DOKDUK1",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.102",
+      "No": 14.0,
+      "Nama Layanan": "RD-KALI-bworker",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.103",
+      "No": 15.0,
+      "Nama Layanan": "SIPIJUET",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.212",
+      "No": 16.0,
+      "Nama Layanan": "Virtmanager",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.9",
+      "No": 17.0,
+      "Nama Layanan": "sigapaceh",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.101",
+      "IP Address": "123.108.101.15",
+      "No": 18.0,
+      "Nama Layanan": "jdih.acehprov",
+      "Status": "None",
+      "Lokasi": "None"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.213",
+      "No": 1.0,
+      "Nama Layanan": "monitoringjkt.acehprov.go.id",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.211",
+      "No": 2.0,
+      "Nama Layanan": "pbsjkt1",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.39",
+      "No": 3.0,
+      "Nama Layanan": "Ekhanza",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.41",
+      "No": 4.0,
+      "Nama Layanan": "IntegrasiAPI",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.42",
+      "No": 5.0,
+      "Nama Layanan": "devtim2",
+      "Instansi": "TEAM SIAT",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.50",
+      "No": 6.0,
+      "Nama Layanan": "SIPDRI",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.57",
+      "No": 7.0,
+      "Nama Layanan": "VMFERI",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.58",
+      "No": 8.0,
+      "Nama Layanan": "siga.acehprov.go.id",
+      "Status": "DC NC Medan",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.61",
+      "No": 9.0,
+      "Nama Layanan": "Bankum",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.213",
+      "No": 10.0,
+      "Nama Layanan": "monkesjkt",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.215",
+      "No": 11.0,
+      "Nama Layanan": "pmgalidsn",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.59",
+      "No": 12.0,
+      "Nama Layanan": "inpeta",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.210",
+      "No": 1.0,
+      "Nama Layanan": "Absesi-APP",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.211",
+      "No": 2.0,
+      "Nama Layanan": "Absensi-API",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.212",
+      "No": 3.0,
+      "Nama Layanan": "Absensi-DB",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.40",
+      "No": 1.0,
+      "Nama Layanan": "Esign Latih Sandi",
+      "Instansi": "Bidang Sandi",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.44",
+      "No": 2.0,
+      "Nama Layanan": "Database ETL",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.45",
+      "No": 3.0,
+      "Nama Layanan": "Dashboard Command Center",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.46",
+      "No": 4.0,
+      "Nama Layanan": "Vizualization",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.60",
+      "No": 5.0,
+      "Nama Layanan": "Open Data Production",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.66",
+      "No": 6.0,
+      "Nama Layanan": "Production Mail Jaringan Komunikasi Sandi ",
+      "Instansi": "Diskominfo dan Persandian Aceh",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.67",
+      "No": 7.0,
+      "Nama Layanan": "Latih V2",
+      "Instansi": "Dinas Komunikasi Informatika dan Persandian Aceh",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.13",
+      "No": 8.0,
+      "Nama Layanan": "Aceh Preneur-APP",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.14",
+      "No": 9.0,
+      "Nama Layanan": "Aceh Preneur-RDS",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.15",
+      "No": 10.0,
+      "Nama Layanan": "Data UMKM",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.18",
+      "No": 11.0,
+      "Nama Layanan": "Sidak-APP",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.27",
+      "No": 12.0,
+      "Nama Layanan": "PPID Gampong",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.21",
+      "No": 3.0,
+      "Nama Layanan": "Gitlap",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.35",
+      "No": 4.0,
+      "Nama Layanan": "Smart ASN Massaning",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.37",
+      "No": 5.0,
+      "Nama Layanan": "SmartASNapp",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.43",
+      "No": 6.0,
+      "Nama Layanan": "SSO",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.47",
+      "No": 7.0,
+      "Nama Layanan": "SysadminDev1",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.48",
+      "No": 8.0,
+      "Nama Layanan": "SysadminDev2",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.49",
+      "No": 9.0,
+      "Nama Layanan": "SIMAMEPROD",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.51",
+      "No": 10.0,
+      "Nama Layanan": "AplikasiTIK",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.54",
+      "No": 11.0,
+      "Nama Layanan": "GitlapRegistry",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.55",
+      "No": 12.0,
+      "Nama Layanan": "GitlabRunner",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.56",
+      "No": 13.0,
+      "Nama Layanan": "SIPMP",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.20",
+      "No": 14.0,
+      "Nama Layanan": "Sigap-APP",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.22",
+      "No": 15.0,
+      "Nama Layanan": "Profikes-APP",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.23",
+      "No": 16.0,
+      "Nama Layanan": "RisalahRapat-APP",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.25",
+      "No": 17.0,
+      "Nama Layanan": "SIMPKK-APP",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.26",
+      "No": 18.0,
+      "Nama Layanan": "Panel-Siat-26",
+      "Status": "DC NC Jakarta",
+      "Lokasi": "VPS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.16",
+      "No": 1.0,
+      "Nama Layanan": "ACehCMSFE"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.17",
+      "No": 2.0,
+      "Nama Layanan": "AcehCMSBE"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.28",
+      "No": 3.0,
+      "Nama Layanan": "DBAcehCMS"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.30",
+      "No": 4.0,
+      "Nama Layanan": "Mailacehprov"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.31",
+      "No": 5.0,
+      "Nama Layanan": "webmailgateway"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.32",
+      "No": 6.0,
+      "Nama Layanan": "win2k19"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.33",
+      "No": 7.0,
+      "Nama Layanan": "smtpjkt.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.34",
+      "No": 8.0,
+      "Nama Layanan": "Wazuh1sandi",
+      "Instansi": "Bidang Sandi"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.36",
+      "No": 9.0,
+      "Nama Layanan": "Temaacehcmd"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.38",
+      "No": 10.0,
+      "Nama Layanan": "rurin.acehprov.go.id"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.52",
+      "No": 11.0,
+      "Nama Layanan": "DeltaDev"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.53",
+      "No": 12.0,
+      "Nama Layanan": "SystemAnalisDev"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.65",
+      "No": 13.0,
+      "Nama Layanan": "Server-Pelatihan-63"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.68",
+      "No": 1.0,
+      "Nama Layanan": "PPID V5",
+      "Instansi": "Dinas Komunikasi Informatika dan Persandian Aceh (Bidang E-Gov)"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.212",
+      "No": 2.0,
+      "Nama Layanan": "alidevmon"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.299",
+      "No": 3.0,
+      "Nama Layanan": "monitoring"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.120",
+      "Nama Layanan": "https://prima.acehprov.go.id",
+      "Instansi": "humas aceh"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.70",
+      "Nama Layanan": "siaga.acehprov.go.id",
+      "Instansi": "UPTD Statistik"
+    },
+    {
+      "Subnet": "123.108.102",
+      "IP Address": "123.108.102.69",
+      "Nama Layanan": "dampak.acehprov.go.id",
+      "Instansi": "Dinas Perhubungan Aceh"
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.1",
+      "No": 1.0,
+      "Nama Layanan": "Router Core",
+      "Instansi": "Bid. TIK - Dinas Kominsa",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.2",
+      "No": 2.0,
+      "Nama Layanan": "sw-dct2.acehprov.go.di",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.8",
+      "No": 8.0,
+      "Nama Layanan": "awan.acehprov.go.id (Storage Aceh)",
+      "Instansi": "Diskominfo dan Persandian Aceh",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.9",
+      "No": 9.0,
+      "Nama Layanan": "sandidrive.acehprov.go.id",
+      "Instansi": "Bidang Sandi",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.10",
+      "No": 10.0,
+      "Nama Layanan": "Dinkes",
+      "Instansi": "Dinas Kesehatan Aceh",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.11",
+      "No": 11.0,
+      "Nama Layanan": "Simanja Aceh Barat",
+      "Instansi": "Kabupaten Aceh Barat",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.12",
+      "No": 12.0,
+      "Nama Layanan": "Virtual Server",
+      "Instansi": "Kabupaten Aceh Barat",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.13",
+      "No": 13.0,
+      "Nama Layanan": "Mail Backup",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.16",
+      "No": 16.0,
+      "Nama Layanan": "Mail Backup",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.17",
+      "No": 17.0,
+      "Nama Layanan": "Mail Backup",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.18",
+      "No": 18.0,
+      "Nama Layanan": "geoportal.acehprov.go.id",
+      "Instansi": "UPTD Statistik",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.19",
+      "No": 19.0,
+      "Nama Layanan": "Nextcloud",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.20",
+      "No": 20.0,
+      "Nama Layanan": "Server Museum Aceh",
+      "Instansi": "Dinas Kebudayaan dan Pariwisata Aceh",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.21",
+      "No": 21.0,
+      "Nama Layanan": "Server Proxmox 1 BKPSDM",
+      "Instansi": "Kabupaten Aceh Jaya",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.22",
+      "No": 22.0,
+      "Nama Layanan": "Acehpedia",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.23",
+      "No": 23.0,
+      "Nama Layanan": "LPSE",
+      "Instansi": "Kabupaten Aceh Jaya",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.24",
+      "No": 24.0,
+      "Nama Layanan": "Onlyoffice",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.25",
+      "No": 25.0,
+      "Nama Layanan": "Server Museum Aceh",
+      "Instansi": "Dinas Kebudayaan dan Pariwisata Aceh",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.26",
+      "No": 26.0,
+      "Nama Layanan": "Server Pve1 Statistik",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.27",
+      "No": 27.0,
+      "Nama Layanan": "Panel-hosting",
+      "Instansi": "Kota Subulussalam",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.28",
+      "No": 28.0,
+      "Nama Layanan": "Server",
+      "Instansi": "Bappeda Kota Subulussalam",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.29",
+      "No": 29.0,
+      "Nama Layanan": "Mirroring-LPSE",
+      "Instansi": "Kabupaten Aceh Utara",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.30",
+      "No": 30.0,
+      "Nama Layanan": "pveawan.acehprov.go.id",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.31",
+      "No": 31.0,
+      "Nama Layanan": "monioring zabbix",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.32",
+      "No": 32.0,
+      "Nama Layanan": "Hosting",
+      "Instansi": "Kabupaten Aceh Utara",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.33",
+      "No": 33.0,
+      "Nama Layanan": "E OFFICE ",
+      "Instansi": "Kabupaten Aceh Utara",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.34",
+      "No": 34.0,
+      "Nama Layanan": "E-SPPD",
+      "Instansi": "Kabupaten Aceh Utara",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.35",
+      "No": 35.0,
+      "Nama Layanan": "DB Simanja",
+      "Instansi": "Kabupaten Aceh Jaya",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.36",
+      "No": 36.0,
+      "Nama Layanan": "Pendataan",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.37",
+      "No": 37.0,
+      "Nama Layanan": "Hosting_jdih",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.38",
+      "No": 38.0,
+      "Nama Layanan": "webdev2",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.39",
+      "No": 39.0,
+      "Nama Layanan": "Server Mail",
+      "Instansi": "Kabupaten Bener Meriah",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.40",
+      "No": 40.0,
+      "Nama Layanan": "Web Server Kominfo",
+      "Instansi": "Kabupaten Aceh Tamiang",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.41",
+      "No": 41.0,
+      "Nama Layanan": "Latihan Esign TTE Kominfo",
+      "Instansi": "Kabupaten Bireun",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.42",
+      "No": 42.0,
+      "Nama Layanan": "Client E-Sign TTE Kominfo",
+      "Instansi": "Kabupaten Bireun",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.43",
+      "No": 43.0,
+      "Nama Layanan": "Server TTE Kominfo",
+      "Instansi": "Kabupaten Bireun",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.44",
+      "No": 44.0,
+      "Nama Layanan": "Gateway Aplikasi Kominfo",
+      "Instansi": "Kabupaten Bireun",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.45",
+      "No": 45.0,
+      "Nama Layanan": "Aplikasi Survey Kepuasan Masyarakat Kominfo",
+      "Instansi": "Kabupaten Bireun",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.46",
+      "No": 46.0,
+      "Nama Layanan": "Aplikasi Helpdesk Kominfo",
+      "Instansi": "Kabupaten Bireun",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.47",
+      "No": 47.0,
+      "Nama Layanan": "Server riset CKAN UPTD",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.48",
+      "No": 48.0,
+      "Nama Layanan": "Sibra.acehprov.go.id",
+      "Instansi": "Badan Reintergrasi Aceh",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.51",
+      "No": 51.0,
+      "Nama Layanan": "Hosting",
+      "Instansi": "Kabupaten Aceh Tengah",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.52",
+      "No": 52.0,
+      "Nama Layanan": "Host Virtualisasi1",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.53",
+      "No": 53.0,
+      "Nama Layanan": "Host Virtualisasi1",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.54",
+      "No": 54.0,
+      "Nama Layanan": "DNS Server Layanan",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.55",
+      "No": 55.0,
+      "Nama Layanan": "Hosting1",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.56",
+      "No": 56.0,
+      "Nama Layanan": "Hosting2",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.57",
+      "No": 57.0,
+      "Nama Layanan": "Mail Server",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.58",
+      "No": 58.0,
+      "Nama Layanan": "E-Training",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.59",
+      "No": 59.0,
+      "Nama Layanan": "E-Education",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.60",
+      "No": 60.0,
+      "Nama Layanan": "Simtanah.acehrprov.go.id",
+      "Instansi": "Dinas Pertanahan Aceh",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.61",
+      "No": 61.0,
+      "Nama Layanan": "LPSE",
+      "Instansi": "Kabupaten Aceh Barat",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.62",
+      "No": 62.0,
+      "Nama Layanan": "LPSE",
+      "Instansi": "Meulaboh2",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.63",
+      "No": 63.0,
+      "Nama Layanan": "datawarga",
+      "Instansi": "UPTD Statistik",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.64",
+      "No": 64.0,
+      "Nama Layanan": "esing pidijaya",
+      "Instansi": "Pidie Jaya",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.70",
+      "No": 70.0,
+      "Nama Layanan": "Monitoring Telkom (cacti)",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.70",
+      "No": 71.0,
+      "Nama Layanan": "blade_dka",
+      "Instansi": "Dinas Keuangan Aceh",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.71",
+      "No": 72.0,
+      "Nama Layanan": "Monitoring Telkom (cacti)",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.71",
+      "No": 73.0,
+      "Nama Layanan": "blade_dka",
+      "Instansi": "Dinas Keuangan Aceh",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.72",
+      "No": 74.0,
+      "Nama Layanan": "hosting ",
+      "Instansi": "Kabupaten Aceh Selatan",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.73",
+      "No": 75.0,
+      "Nama Layanan": "Hosting ",
+      "Instansi": "Kabupaten Aceh Selatan",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.74",
+      "No": 76.0,
+      "Nama Layanan": "Portal Data",
+      "Instansi": "Kabupaten Aceh Selatan",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.75",
+      "No": 77.0,
+      "Nama Layanan": "Monitoring Telkom (cacti)",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.76",
+      "No": 78.0,
+      "Nama Layanan": "VPN Terminal Type B",
+      "Instansi": "Dinas Perhubungan Aceh",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.77",
+      "No": 79.0,
+      "Nama Layanan": "SIcerdas",
+      "Instansi": "Punya bg Ibnu",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.78",
+      "No": 80.0,
+      "Nama Layanan": "sips.acehprov.go.id",
+      "Instansi": "Dinas Kehutanan",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.80",
+      "No": 82.0,
+      "Nama Layanan": "Sisda Aceh",
+      "Instansi": "Dinas pengairan Aceh",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.86",
+      "No": 88.0,
+      "Nama Layanan": "Sitraspor.acehprov.go.id",
+      "Instansi": "Biro Administrasi Pembangunan Aceh",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.87",
+      "No": 89.0,
+      "Nama Layanan": "harie.acehtengah.go.id",
+      "Instansi": "Kabupaten Aceh Tengah",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.88",
+      "No": 90.0,
+      "Nama Layanan": "Bappeda",
+      "Instansi": "Kabupaten Aceh Besar",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.89",
+      "No": 91.0,
+      "Nama Layanan": "E-Kinerja",
+      "Instansi": "Kabupaten Aceh Utara",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.90",
+      "No": 92.0,
+      "Nama Layanan": "Sijantan ",
+      "Instansi": "Dinas Komunikasi Informatika dan Persandian Aceh (Bidang E-Gov)",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.91",
+      "No": 93.0,
+      "Nama Layanan": "Satu-Data Production",
+      "Instansi": "Dinas Komunikasi Informatika dan Persandian Aceh (Bidang UPTD Statistik)",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.92",
+      "No": 94.0,
+      "Nama Layanan": "SikotakInspektorat",
+      "Instansi": "Inspektorat Aceh",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.94",
+      "No": 96.0,
+      "Nama Layanan": "Si-abangjaya.acehjayakab.go.id",
+      "Instansi": "Kabupaten Aceh Jaya",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.97",
+      "No": 99.0,
+      "Nama Layanan": "Blade_dka",
+      "Instansi": "Dinas Keuangan Aceh",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.98",
+      "No": 100.0,
+      "Nama Layanan": "Blade_dka",
+      "Instansi": "Dinas Keuangan Aceh",
+      "Status": 80443.0
+    },
+    {
+      "Subnet": "123.108.103",
+      "IP Address": "123.108.103.99",
+      "No": 101.0,
+      "Nama Layanan": "Blade_dka",
+      "Instansi": "Dinas Keuangan Aceh",
+      "Status": 80443.0
+    }
+  ]
+}

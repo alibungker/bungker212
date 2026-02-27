@@ -1,0 +1,2291 @@
+{
+  "total": 254,
+  "data": [
+    {
+      "No": 1.0,
+      "Nama Layanan": "Router Core",
+      "Instansi": "Bidang TIK - Diskominsa Aceh",
+      "IP Address": "123.108.97.1",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 3
+    },
+    {
+      "No": 2.0,
+      "Nama Layanan": "smtp.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.2",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 4
+    },
+    {
+      "No": null,
+      "Nama Layanan": "switch1-dtc.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.3",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 6
+    },
+    {
+      "No": null,
+      "Nama Layanan": "switch2-dtc.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.4",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 8
+    },
+    {
+      "No": 5.0,
+      "Nama Layanan": "Server Pelatihan",
+      "Instansi": null,
+      "IP Address": "123.108.97.5",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 9
+    },
+    {
+      "No": 6.0,
+      "Nama Layanan": "Generator.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.6",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 10
+    },
+    {
+      "No": null,
+      "Nama Layanan": "smtp3.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.7",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 12
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Server Temporary 2",
+      "Instansi": null,
+      "IP Address": "123.108.97.8",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 14
+    },
+    {
+      "No": 9.0,
+      "Nama Layanan": "storage-official",
+      "Instansi": null,
+      "IP Address": "123.108.97.9",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 15
+    },
+    {
+      "No": 10.0,
+      "Nama Layanan": "E-Pengaduan Migrasi",
+      "Instansi": null,
+      "IP Address": "123.108.97.10",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 16
+    },
+    {
+      "No": 11.0,
+      "Nama Layanan": "ldap-sso",
+      "Instansi": null,
+      "IP Address": "123.108.97.11",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 17
+    },
+    {
+      "No": 12.0,
+      "Nama Layanan": "admsms.acehprov.go.id / SIKN Arsip",
+      "Instansi": null,
+      "IP Address": "123.108.97.12",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 18
+    },
+    {
+      "No": 13.0,
+      "Nama Layanan": "captive-portal",
+      "Instansi": null,
+      "IP Address": "123.108.97.13",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 19
+    },
+    {
+      "No": 14.0,
+      "Nama Layanan": "srad.acehprov.go.id (SSO)",
+      "Instansi": null,
+      "IP Address": "123.108.97.14",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 20
+    },
+    {
+      "No": 15.0,
+      "Nama Layanan": "VM NS",
+      "Instansi": null,
+      "IP Address": "123.108.97.15",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 21
+    },
+    {
+      "No": null,
+      "Nama Layanan": "virtual-nac1",
+      "Instansi": null,
+      "IP Address": "123.108.97.16",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 23
+    },
+    {
+      "No": 17.0,
+      "Nama Layanan": "webstatic-2",
+      "Instansi": null,
+      "IP Address": "123.108.97.17",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 24
+    },
+    {
+      "No": null,
+      "Nama Layanan": "migrasi-email",
+      "Instansi": null,
+      "IP Address": "123.108.97.18",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 27
+    },
+    {
+      "No": 19.0,
+      "Nama Layanan": "Profil Kesehatan - https://profilkes.acehprov.go.id/",
+      "Instansi": "Dinas Kesehatan",
+      "IP Address": "123.108.97.19",
+      "Status": "Aktif",
+      "Lokasi": "DC NC Banda Aceh",
+      "Row": 28
+    },
+    {
+      "No": null,
+      "Nama Layanan": "LPSE_Sabang",
+      "Instansi": null,
+      "IP Address": "123.108.97.20",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 30
+    },
+    {
+      "No": null,
+      "Nama Layanan": "virtual-nac2",
+      "Instansi": null,
+      "IP Address": "123.108.97.21",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 32
+    },
+    {
+      "No": 22.0,
+      "Nama Layanan": "Server LPSE Aceh Barat Daya",
+      "Instansi": null,
+      "IP Address": "123.108.97.22",
+      "Status": "Aktif",
+      "Lokasi": "DC NC Banda Aceh",
+      "Row": 33
+    },
+    {
+      "No": 23.0,
+      "Nama Layanan": "Speedtest.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.23",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 34
+    },
+    {
+      "No": 24.0,
+      "Nama Layanan": "lpse.naganrayakab.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.24",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 35
+    },
+    {
+      "No": null,
+      "Nama Layanan": "LPSE_SUBUSSALAM",
+      "Instansi": null,
+      "IP Address": "123.108.97.25",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 37
+    },
+    {
+      "No": 26.0,
+      "Nama Layanan": "panel4.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.26",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 38
+    },
+    {
+      "No": 27.0,
+      "Nama Layanan": "LPSE_ATIM/ldap 25 sementara",
+      "Instansi": null,
+      "IP Address": "123.108.97.27",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 39
+    },
+    {
+      "No": 28.0,
+      "Nama Layanan": "ponxii.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.28",
+      "Status": "Aktif",
+      "Lokasi": "DC NC Banda Aceh",
+      "Row": 40
+    },
+    {
+      "No": null,
+      "Nama Layanan": "LPSE_BIREUEN",
+      "Instansi": null,
+      "IP Address": "123.108.97.29",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 42
+    },
+    {
+      "No": 30.0,
+      "Nama Layanan": "ojsbapeda.acehprov.go.id / VPS Bappeda",
+      "Instansi": "BAPPEDA",
+      "IP Address": "123.108.97.30",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 43
+    },
+    {
+      "No": 31.0,
+      "Nama Layanan": "PPID-MIGRASI / PPID",
+      "Instansi": "Dinas Kominfo,Informatika dan Persandi Aceh",
+      "IP Address": "123.108.97.31",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 44
+    },
+    {
+      "No": 32.0,
+      "Nama Layanan": "LPSE_PIJAY",
+      "Instansi": null,
+      "IP Address": "123.108.97.32",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 45
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Web Conferencing",
+      "Instansi": null,
+      "IP Address": "123.108.97.33",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 48
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Panel-7",
+      "Instansi": null,
+      "IP Address": "123.108.97.34",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 50
+    },
+    {
+      "No": null,
+      "Nama Layanan": "GIS",
+      "Instansi": null,
+      "IP Address": "123.108.97.35",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 52
+    },
+    {
+      "No": null,
+      "Nama Layanan": "CCTV_PSI",
+      "Instansi": null,
+      "IP Address": "123.108.97.36",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 54
+    },
+    {
+      "No": null,
+      "Nama Layanan": "DRKA_SERVER",
+      "Instansi": null,
+      "IP Address": "123.108.97.37",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 56
+    },
+    {
+      "No": 38.0,
+      "Nama Layanan": "nac3acehprov",
+      "Instansi": null,
+      "IP Address": "123.108.97.38",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 57
+    },
+    {
+      "No": 39.0,
+      "Nama Layanan": "lpse-v4",
+      "Instansi": null,
+      "IP Address": "123.108.97.39",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 58
+    },
+    {
+      "No": null,
+      "Nama Layanan": "PANEL 8",
+      "Instansi": null,
+      "IP Address": "123.108.97.40",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 60
+    },
+    {
+      "No": 41.0,
+      "Nama Layanan": "VPSHostingGalus",
+      "Instansi": "Kabupaten Gayo Lues",
+      "IP Address": "123.108.97.41",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 61
+    },
+    {
+      "No": null,
+      "Nama Layanan": "cacti.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.42",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 63
+    },
+    {
+      "No": null,
+      "Nama Layanan": "e-pangaduan",
+      "Instansi": null,
+      "IP Address": "123.108.97.43",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 65
+    },
+    {
+      "No": 44.0,
+      "Nama Layanan": "Bekas storage c-panel",
+      "Instansi": null,
+      "IP Address": "123.108.97.44",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 66
+    },
+    {
+      "No": 45.0,
+      "Nama Layanan": "LDAP-Acehprov",
+      "Instansi": null,
+      "IP Address": "123.108.97.45",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 67
+    },
+    {
+      "No": 46.0,
+      "Nama Layanan": "VPS-PANGAN",
+      "Instansi": null,
+      "IP Address": "123.108.97.46",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 68
+    },
+    {
+      "No": 47.0,
+      "Nama Layanan": "LPSE_Acehprov",
+      "Instansi": null,
+      "IP Address": "123.108.97.47",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 69
+    },
+    {
+      "No": 48.0,
+      "Nama Layanan": "LPSDM",
+      "Instansi": null,
+      "IP Address": "123.108.97.48",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 70
+    },
+    {
+      "No": 49.0,
+      "Nama Layanan": "lpse_storage",
+      "Instansi": null,
+      "IP Address": "123.108.97.49",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 71
+    },
+    {
+      "No": 50.0,
+      "Nama Layanan": "ASET (blud.acehprov.go.id)",
+      "Instansi": null,
+      "IP Address": "123.108.97.50",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 72
+    },
+    {
+      "No": 51.0,
+      "Nama Layanan": "LPSE_GAYO",
+      "Instansi": null,
+      "IP Address": "123.108.97.51",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 73
+    },
+    {
+      "No": null,
+      "Nama Layanan": "SIMAYA",
+      "Instansi": null,
+      "IP Address": "123.108.97.52",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 75
+    },
+    {
+      "No": 53.0,
+      "Nama Layanan": "CVR Network Storage Dishub",
+      "Instansi": null,
+      "IP Address": "123.108.97.53",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 76
+    },
+    {
+      "No": 54.0,
+      "Nama Layanan": "Digital Signature Dishub",
+      "Instansi": null,
+      "IP Address": "123.108.97.54",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 77
+    },
+    {
+      "No": null,
+      "Nama Layanan": "APP_Pemerintahan",
+      "Instansi": null,
+      "IP Address": "123.108.97.55",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 79
+    },
+    {
+      "No": 56.0,
+      "Nama Layanan": "Proxmox App",
+      "Instansi": null,
+      "IP Address": "123.108.97.56",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 80
+    },
+    {
+      "No": 57.0,
+      "Nama Layanan": "Proxmox GDC",
+      "Instansi": null,
+      "IP Address": "123.108.97.57",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 81
+    },
+    {
+      "No": 58.0,
+      "Nama Layanan": "LPSE_Simeulue",
+      "Instansi": null,
+      "IP Address": "123.108.97.58",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 82
+    },
+    {
+      "No": 59.0,
+      "Nama Layanan": "Aceh Carong Disdik",
+      "Instansi": null,
+      "IP Address": "123.108.97.59",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 83
+    },
+    {
+      "No": 60.0,
+      "Nama Layanan": "Sireva Disdik",
+      "Instansi": null,
+      "IP Address": "123.108.97.60",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 84
+    },
+    {
+      "No": null,
+      "Nama Layanan": "GeRAK Aceh",
+      "Instansi": null,
+      "IP Address": "123.108.97.61",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 86
+    },
+    {
+      "No": 62.0,
+      "Nama Layanan": "Geo Portal",
+      "Instansi": null,
+      "IP Address": "123.108.97.62",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 87
+    },
+    {
+      "No": 63.0,
+      "Nama Layanan": "Aceh gis",
+      "Instansi": null,
+      "IP Address": "123.108.97.63",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 88
+    },
+    {
+      "No": 64.0,
+      "Nama Layanan": "SIGA",
+      "Instansi": null,
+      "IP Address": "123.108.97.64",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 89
+    },
+    {
+      "No": 65.0,
+      "Nama Layanan": "SMTP3",
+      "Instansi": null,
+      "IP Address": "123.108.97.65",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 90
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Web_SMS",
+      "Instansi": null,
+      "IP Address": "123.108.97.66",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 92
+    },
+    {
+      "No": null,
+      "Nama Layanan": "VPS-pak-Ives-Kasi-intra",
+      "Instansi": null,
+      "IP Address": "123.108.97.67",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 96
+    },
+    {
+      "No": 68.0,
+      "Nama Layanan": "rand-acehprov.go.id / IoT Dishub",
+      "Instansi": null,
+      "IP Address": "123.108.97.68",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 97
+    },
+    {
+      "No": 69.0,
+      "Nama Layanan": "E-TAMBAK",
+      "Instansi": null,
+      "IP Address": "123.108.97.69",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 98
+    },
+    {
+      "No": 70.0,
+      "Nama Layanan": "DatabaseMonev",
+      "Instansi": null,
+      "IP Address": "123.108.97.70",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 99
+    },
+    {
+      "No": 71.0,
+      "Nama Layanan": "GDC",
+      "Instansi": null,
+      "IP Address": "123.108.97.71",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 100
+    },
+    {
+      "No": 72.0,
+      "Nama Layanan": "E-Rencana",
+      "Instansi": null,
+      "IP Address": "123.108.97.72",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 101
+    },
+    {
+      "No": 73.0,
+      "Nama Layanan": "Server Dishub 1",
+      "Instansi": null,
+      "IP Address": "123.108.97.73",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 102
+    },
+    {
+      "No": 74.0,
+      "Nama Layanan": "Server Dishub 2",
+      "Instansi": null,
+      "IP Address": "123.108.97.74",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 103
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Mail2 Backup",
+      "Instansi": null,
+      "IP Address": "123.108.97.75",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 105
+    },
+    {
+      "No": 76.0,
+      "Nama Layanan": "HoneyNet",
+      "Instansi": null,
+      "IP Address": "123.108.97.76",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 106
+    },
+    {
+      "No": 77.0,
+      "Nama Layanan": "Server BKA",
+      "Instansi": null,
+      "IP Address": "123.108.97.77",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 107
+    },
+    {
+      "No": 78.0,
+      "Nama Layanan": "Panel PPID",
+      "Instansi": null,
+      "IP Address": "123.108.97.78",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 108
+    },
+    {
+      "No": 79.0,
+      "Nama Layanan": "Backup_LPSEAcehprov",
+      "Instansi": null,
+      "IP Address": "123.108.97.79",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 109
+    },
+    {
+      "No": 80.0,
+      "Nama Layanan": "Webcore1",
+      "Instansi": null,
+      "IP Address": "123.108.97.80",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 110
+    },
+    {
+      "No": 81.0,
+      "Nama Layanan": "Webcore2",
+      "Instansi": null,
+      "IP Address": "123.108.97.81",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 111
+    },
+    {
+      "No": 82.0,
+      "Nama Layanan": "Absesnsi Replikasi",
+      "Instansi": null,
+      "IP Address": "123.108.97.82",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 112
+    },
+    {
+      "No": 83.0,
+      "Nama Layanan": "Aplikasi SIKAWAN",
+      "Instansi": null,
+      "IP Address": "123.108.97.83",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 113
+    },
+    {
+      "No": null,
+      "Nama Layanan": "SMS_Server",
+      "Instansi": null,
+      "IP Address": "123.108.97.84",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 116
+    },
+    {
+      "No": 85.0,
+      "Nama Layanan": "FortiWEB",
+      "Instansi": null,
+      "IP Address": "123.108.97.85",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 117
+    },
+    {
+      "No": 86.0,
+      "Nama Layanan": "DWH BAPPEDA",
+      "Instansi": null,
+      "IP Address": "123.108.97.86",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 118
+    },
+    {
+      "No": null,
+      "Nama Layanan": "nms.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.87",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 120
+    },
+    {
+      "No": 88.0,
+      "Nama Layanan": "Load balancer 1",
+      "Instansi": null,
+      "IP Address": "123.108.97.88",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 121
+    },
+    {
+      "No": 89.0,
+      "Nama Layanan": "Load Balancer 2",
+      "Instansi": null,
+      "IP Address": "123.108.97.89",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 122
+    },
+    {
+      "No": 90.0,
+      "Nama Layanan": "Sijahtra",
+      "Instansi": null,
+      "IP Address": "123.108.97.90",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 123
+    },
+    {
+      "No": 91.0,
+      "Nama Layanan": "WEB1-SIAT",
+      "Instansi": null,
+      "IP Address": "123.108.97.91",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 124
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Sistem_database1",
+      "Instansi": null,
+      "IP Address": "123.108.97.92",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 126
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Sistem_database2",
+      "Instansi": null,
+      "IP Address": "123.108.97.93",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 128
+    },
+    {
+      "No": 94.0,
+      "Nama Layanan": "TU Pimpinan",
+      "Instansi": null,
+      "IP Address": "123.108.97.94",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 129
+    },
+    {
+      "No": 95.0,
+      "Nama Layanan": "sikka.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.95",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 130
+    },
+    {
+      "No": 96.0,
+      "Nama Layanan": "Riset Pentester SIAT",
+      "Instansi": null,
+      "IP Address": "123.108.97.96",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 131
+    },
+    {
+      "No": 97.0,
+      "Nama Layanan": "SIAT_DELTA2",
+      "Instansi": null,
+      "IP Address": "123.108.97.97",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 132
+    },
+    {
+      "No": null,
+      "Nama Layanan": "ekerani.kab.kota",
+      "Instansi": null,
+      "IP Address": "123.108.97.98",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 134
+    },
+    {
+      "No": 99.0,
+      "Nama Layanan": "NS_Authoritative2",
+      "Instansi": null,
+      "IP Address": "123.108.97.99",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 135
+    },
+    {
+      "No": 100.0,
+      "Nama Layanan": "nms.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.100",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 136
+    },
+    {
+      "No": 101.0,
+      "Nama Layanan": "TKP2K BAPPEDA",
+      "Instansi": null,
+      "IP Address": "123.108.97.101",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 137
+    },
+    {
+      "No": 102.0,
+      "Nama Layanan": "www1-surat.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.102",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 138
+    },
+    {
+      "No": 103.0,
+      "Nama Layanan": "www1.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.103",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 139
+    },
+    {
+      "No": 104.0,
+      "Nama Layanan": "redaksi.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.104",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 140
+    },
+    {
+      "No": 105.0,
+      "Nama Layanan": "Taspen",
+      "Instansi": null,
+      "IP Address": "123.108.97.105",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 141
+    },
+    {
+      "No": 106.0,
+      "Nama Layanan": "SIPKD1",
+      "Instansi": null,
+      "IP Address": "123.108.97.106",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 142
+    },
+    {
+      "No": 107.0,
+      "Nama Layanan": "SP2D",
+      "Instansi": null,
+      "IP Address": "123.108.97.107",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 143
+    },
+    {
+      "No": 108.0,
+      "Nama Layanan": "SIPKD2",
+      "Instansi": null,
+      "IP Address": "123.108.97.108",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 144
+    },
+    {
+      "No": 109.0,
+      "Nama Layanan": "SIMBAN",
+      "Instansi": null,
+      "IP Address": "123.108.97.109",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 145
+    },
+    {
+      "No": 110.0,
+      "Nama Layanan": "VPS Trans Kota Raja",
+      "Instansi": null,
+      "IP Address": "123.108.97.110",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 146
+    },
+    {
+      "No": 111.0,
+      "Nama Layanan": "Mail_Acehprov",
+      "Instansi": null,
+      "IP Address": "123.108.97.111",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 147
+    },
+    {
+      "No": 112.0,
+      "Nama Layanan": "blade_node1",
+      "Instansi": null,
+      "IP Address": "123.108.97.112",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 148
+    },
+    {
+      "No": 113.0,
+      "Nama Layanan": "blade_node2",
+      "Instansi": null,
+      "IP Address": "123.108.97.113",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 149
+    },
+    {
+      "No": 114.0,
+      "Nama Layanan": "regsikd",
+      "Instansi": null,
+      "IP Address": "123.108.97.114",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 150
+    },
+    {
+      "No": 115.0,
+      "Nama Layanan": "E-Budgeting-APP",
+      "Instansi": null,
+      "IP Address": "123.108.97.115",
+      "Status": "Aktif",
+      "Lokasi": "DC TIK",
+      "Row": 151
+    },
+    {
+      "No": 116.0,
+      "Nama Layanan": "E-Budgeting-DB",
+      "Instansi": null,
+      "IP Address": "123.108.97.116",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 152
+    },
+    {
+      "No": null,
+      "Nama Layanan": "IBNU",
+      "Instansi": null,
+      "IP Address": "123.108.97.117",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 154
+    },
+    {
+      "No": 118.0,
+      "Nama Layanan": "Pengawasan Acunetix",
+      "Instansi": null,
+      "IP Address": "123.108.97.118",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 155
+    },
+    {
+      "No": 119.0,
+      "Nama Layanan": "NS2 Aceh Utara",
+      "Instansi": null,
+      "IP Address": "123.108.97.119",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 156
+    },
+    {
+      "No": 120.0,
+      "Nama Layanan": "Page-Blocked",
+      "Instansi": null,
+      "IP Address": "123.108.97.120",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 157
+    },
+    {
+      "No": 121.0,
+      "Nama Layanan": "sentora",
+      "Instansi": null,
+      "IP Address": "123.108.97.121",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 158
+    },
+    {
+      "No": 122.0,
+      "Nama Layanan": "Server Internet Syariah",
+      "Instansi": null,
+      "IP Address": "123.108.97.122",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 159
+    },
+    {
+      "No": 123.0,
+      "Nama Layanan": "Log.acehprov.go.id",
+      "Instansi": null,
+      "IP Address": "123.108.97.123",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 160
+    },
+    {
+      "No": 124.0,
+      "Nama Layanan": "CPANEL",
+      "Instansi": null,
+      "IP Address": "123.108.97.124",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 161
+    },
+    {
+      "No": 125.0,
+      "Nama Layanan": "Windows Disdik",
+      "Instansi": null,
+      "IP Address": "123.108.97.125",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 162
+    },
+    {
+      "No": 126.0,
+      "Nama Layanan": "Hosting Gampong",
+      "Instansi": null,
+      "IP Address": "123.108.97.126",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 163
+    },
+    {
+      "No": 127.0,
+      "Nama Layanan": "Server Gampong Data 1",
+      "Instansi": null,
+      "IP Address": "123.108.97.127",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 164
+    },
+    {
+      "No": 128.0,
+      "Nama Layanan": "Server Gampong Data 2",
+      "Instansi": null,
+      "IP Address": "123.108.97.128",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 165
+    },
+    {
+      "No": 129.0,
+      "Nama Layanan": "VPN Terminal Type B Dishub Aceh",
+      "Instansi": null,
+      "IP Address": "123.108.97.129",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 166
+    },
+    {
+      "No": 130.0,
+      "Nama Layanan": "VPN IP",
+      "Instansi": null,
+      "IP Address": "123.108.97.130",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 167
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Mirror SIPKD Centos",
+      "Instansi": null,
+      "IP Address": "123.108.97.131",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 170
+    },
+    {
+      "No": 132.0,
+      "Nama Layanan": "Vps IOT2",
+      "Instansi": null,
+      "IP Address": "123.108.97.132",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 171
+    },
+    {
+      "No": 133.0,
+      "Nama Layanan": "LPSE_Latihan2",
+      "Instansi": null,
+      "IP Address": "123.108.97.133",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 172
+    },
+    {
+      "No": 134.0,
+      "Nama Layanan": "Server P2K",
+      "Instansi": null,
+      "IP Address": "123.108.97.134",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 173
+    },
+    {
+      "No": 135.0,
+      "Nama Layanan": "smtp4",
+      "Instansi": null,
+      "IP Address": "123.108.97.135",
+      "Status": "Tidak Aktif",
+      "Lokasi": "None",
+      "Row": 174
+    },
+    {
+      "No": 136.0,
+      "Nama Layanan": "DB-Slave",
+      "Instansi": null,
+      "IP Address": "123.108.97.136",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 175
+    },
+    {
+      "No": 137.0,
+      "Nama Layanan": "SIMANJA-LB",
+      "Instansi": null,
+      "IP Address": "123.108.97.137",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 176
+    },
+    {
+      "No": 138.0,
+      "Nama Layanan": "Rsudza Reg Online",
+      "Instansi": null,
+      "IP Address": "123.108.97.138",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 177
+    },
+    {
+      "No": 139.0,
+      "Nama Layanan": "SIKD",
+      "Instansi": null,
+      "IP Address": "123.108.97.139",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 178
+    },
+    {
+      "No": 140.0,
+      "Nama Layanan": "ujian",
+      "Instansi": null,
+      "IP Address": "123.108.97.140",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 179
+    },
+    {
+      "No": 141.0,
+      "Nama Layanan": "Server Dinsos",
+      "Instansi": null,
+      "IP Address": "123.108.97.141",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 180
+    },
+    {
+      "No": 142.0,
+      "Nama Layanan": "VPS Kominfo Lhokseumawe",
+      "Instansi": null,
+      "IP Address": "123.108.97.142",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 181
+    },
+    {
+      "No": 143.0,
+      "Nama Layanan": "Proxmox UPTB PDGA",
+      "Instansi": null,
+      "IP Address": "123.108.97.143",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 182
+    },
+    {
+      "No": 144.0,
+      "Nama Layanan": "Nextcloud UPTB PDGA",
+      "Instansi": null,
+      "IP Address": "123.108.97.144",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 183
+    },
+    {
+      "No": null,
+      "Nama Layanan": "VPS SMA 3",
+      "Instansi": null,
+      "IP Address": "123.108.97.145",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 185
+    },
+    {
+      "No": 146.0,
+      "Nama Layanan": "SIMANJA1",
+      "Instansi": null,
+      "IP Address": "123.108.97.146",
+      "Status": "Aktif",
+      "Lokasi": "DC NC Banda Aceh",
+      "Row": 186
+    },
+    {
+      "No": 147.0,
+      "Nama Layanan": "SIMANJA2",
+      "Instansi": null,
+      "IP Address": "123.108.97.147",
+      "Status": "Aktif",
+      "Lokasi": "DC NC Banda Aceh",
+      "Row": 187
+    },
+    {
+      "No": 148.0,
+      "Nama Layanan": "VpsKominfo-tes",
+      "Instansi": null,
+      "IP Address": "123.108.97.148",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 188
+    },
+    {
+      "No": null,
+      "Nama Layanan": "VPS Disdik",
+      "Instansi": null,
+      "IP Address": "123.108.97.149",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 190
+    },
+    {
+      "No": null,
+      "Nama Layanan": "E-Samsat",
+      "Instansi": null,
+      "IP Address": "123.108.97.150",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 192
+    },
+    {
+      "No": 151.0,
+      "Nama Layanan": "Blade Supermico10",
+      "Instansi": null,
+      "IP Address": "123.108.97.151",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 193
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Clone Proxmox Mail Gateway PMG",
+      "Instansi": null,
+      "IP Address": "123.108.97.152",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 196
+    },
+    {
+      "No": 153.0,
+      "Nama Layanan": "Blade Supermico12",
+      "Instansi": null,
+      "IP Address": "123.108.97.153",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 197
+    },
+    {
+      "No": 154.0,
+      "Nama Layanan": "Blade Supermico13",
+      "Instansi": null,
+      "IP Address": "123.108.97.154",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 198
+    },
+    {
+      "No": null,
+      "Nama Layanan": "SIKD-Arpus",
+      "Instansi": null,
+      "IP Address": "123.108.97.155",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 200
+    },
+    {
+      "No": 156.0,
+      "Nama Layanan": "Dev Team SIAT",
+      "Instansi": null,
+      "IP Address": "123.108.97.156",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 201
+    },
+    {
+      "No": 157.0,
+      "Nama Layanan": "GitLab SIAT",
+      "Instansi": null,
+      "IP Address": "123.108.97.157",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 202
+    },
+    {
+      "No": 158.0,
+      "Nama Layanan": "SIKN ARSIP",
+      "Instansi": null,
+      "IP Address": "123.108.97.158",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 203
+    },
+    {
+      "No": 159.0,
+      "Nama Layanan": "Pentest",
+      "Instansi": null,
+      "IP Address": "123.108.97.159",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 204
+    },
+    {
+      "No": null,
+      "Nama Layanan": "SIMANJA3",
+      "Instansi": null,
+      "IP Address": "123.108.97.160",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 206
+    },
+    {
+      "No": 161.0,
+      "Nama Layanan": "SIMANJA4",
+      "Instansi": null,
+      "IP Address": "123.108.97.161",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 207
+    },
+    {
+      "No": 162.0,
+      "Nama Layanan": "Sys Analis 1",
+      "Instansi": null,
+      "IP Address": "123.108.97.162",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 208
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Sys Analis 2",
+      "Instansi": null,
+      "IP Address": "123.108.97.163",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 210
+    },
+    {
+      "No": 164.0,
+      "Nama Layanan": "Dev Mantra",
+      "Instansi": null,
+      "IP Address": "123.108.97.164",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 211
+    },
+    {
+      "No": 165.0,
+      "Nama Layanan": "Dev Ckan",
+      "Instansi": null,
+      "IP Address": "123.108.97.165",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 212
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Db-Admin 3",
+      "Instansi": null,
+      "IP Address": "123.108.97.166",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 214
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Db-Admin 4",
+      "Instansi": null,
+      "IP Address": "123.108.97.167",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 216
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Db-Admin 5",
+      "Instansi": null,
+      "IP Address": "123.108.97.168",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 218
+    },
+    {
+      "No": 169.0,
+      "Nama Layanan": "VPS-SMART-CONNECTIVITY-ACEH-TENGAH",
+      "Instansi": null,
+      "IP Address": "123.108.97.169",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 219
+    },
+    {
+      "No": 170.0,
+      "Nama Layanan": "CPANEL 2",
+      "Instansi": null,
+      "IP Address": "123.108.97.170",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 220
+    },
+    {
+      "No": 171.0,
+      "Nama Layanan": "Proxmox APP 2",
+      "Instansi": null,
+      "IP Address": "123.108.97.171",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 221
+    },
+    {
+      "No": 172.0,
+      "Nama Layanan": "Proxmox APP 3",
+      "Instansi": null,
+      "IP Address": "123.108.97.172",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 222
+    },
+    {
+      "No": 173.0,
+      "Nama Layanan": "vps-Arpus-Calang",
+      "Instansi": null,
+      "IP Address": "123.108.97.173",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 223
+    },
+    {
+      "No": 174.0,
+      "Nama Layanan": "Mail Kab/Kota",
+      "Instansi": null,
+      "IP Address": "123.108.97.174",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 224
+    },
+    {
+      "No": 175.0,
+      "Nama Layanan": "Dev Mantra",
+      "Instansi": null,
+      "IP Address": "123.108.97.175",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 225
+    },
+    {
+      "No": 176.0,
+      "Nama Layanan": "Middleware",
+      "Instansi": null,
+      "IP Address": "123.108.97.176",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 226
+    },
+    {
+      "No": 177.0,
+      "Nama Layanan": "Blade Supermico1",
+      "Instansi": null,
+      "IP Address": "123.108.97.177",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 227
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Blade Supermico2",
+      "Instansi": null,
+      "IP Address": "123.108.97.178",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 229
+    },
+    {
+      "No": 179.0,
+      "Nama Layanan": "Blade Supermico3",
+      "Instansi": null,
+      "IP Address": "123.108.97.179",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 230
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Blade Supermico4",
+      "Instansi": null,
+      "IP Address": "123.108.97.180",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 232
+    },
+    {
+      "No": 181.0,
+      "Nama Layanan": "Blade Supermico5",
+      "Instansi": null,
+      "IP Address": "123.108.97.181",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 233
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Blade Supermico6",
+      "Instansi": null,
+      "IP Address": "123.108.97.182",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 235
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Blade Supermico7",
+      "Instansi": null,
+      "IP Address": "123.108.97.183",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 237
+    },
+    {
+      "No": 184.0,
+      "Nama Layanan": "Blade Supermico8",
+      "Instansi": null,
+      "IP Address": "123.108.97.184",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 238
+    },
+    {
+      "No": 185.0,
+      "Nama Layanan": "APLIKASI SIJEMPOL DISDIK",
+      "Instansi": null,
+      "IP Address": "123.108.97.185",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 239
+    },
+    {
+      "No": 186.0,
+      "Nama Layanan": "Docker-SIAT",
+      "Instansi": null,
+      "IP Address": "123.108.97.186",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 240
+    },
+    {
+      "No": 187.0,
+      "Nama Layanan": "VPS SIKD-APLIKASI",
+      "Instansi": null,
+      "IP Address": "123.108.97.187",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 241
+    },
+    {
+      "No": 188.0,
+      "Nama Layanan": "VPS SIKD-DB",
+      "Instansi": null,
+      "IP Address": "123.108.97.188",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 242
+    },
+    {
+      "No": 189.0,
+      "Nama Layanan": "Aplikasi Risalah Rapat",
+      "Instansi": null,
+      "IP Address": "123.108.97.189",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 243
+    },
+    {
+      "No": 190.0,
+      "Nama Layanan": "BLADE-IBM-NODE6",
+      "Instansi": null,
+      "IP Address": "123.108.97.190",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 244
+    },
+    {
+      "No": 191.0,
+      "Nama Layanan": "Server Dev Alpha",
+      "Instansi": null,
+      "IP Address": "123.108.97.191",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 245
+    },
+    {
+      "No": 192.0,
+      "Nama Layanan": "Server Dev Bravo",
+      "Instansi": null,
+      "IP Address": "123.108.97.192",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 246
+    },
+    {
+      "No": 193.0,
+      "Nama Layanan": "Server Dev Charle",
+      "Instansi": null,
+      "IP Address": "123.108.97.193",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 247
+    },
+    {
+      "No": 194.0,
+      "Nama Layanan": "Server Dev Delta",
+      "Instansi": null,
+      "IP Address": "123.108.97.194",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 248
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Planner",
+      "Instansi": null,
+      "IP Address": "123.108.97.195",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 250
+    },
+    {
+      "No": 196.0,
+      "Nama Layanan": "Camera CCTV  baru",
+      "Instansi": null,
+      "IP Address": "123.108.97.196",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 251
+    },
+    {
+      "No": 197.0,
+      "Nama Layanan": "Backup-DB",
+      "Instansi": null,
+      "IP Address": "123.108.97.197",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 252
+    },
+    {
+      "No": 198.0,
+      "Nama Layanan": null,
+      "Instansi": null,
+      "IP Address": "123.108.97.198",
+      "Status": "Tidak Aktif",
+      "Lokasi": "None",
+      "Row": 253
+    },
+    {
+      "No": null,
+      "Nama Layanan": "prituln",
+      "Instansi": null,
+      "IP Address": "123.108.97.199",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 255
+    },
+    {
+      "No": 200.0,
+      "Nama Layanan": "Monitoring Radio Link",
+      "Instansi": null,
+      "IP Address": "123.108.97.200",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 256
+    },
+    {
+      "No": 201.0,
+      "Nama Layanan": "SIMANJA PIDIE-BKA PROV",
+      "Instansi": null,
+      "IP Address": "123.108.97.201",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 257
+    },
+    {
+      "No": 202.0,
+      "Nama Layanan": "Proxmox LPSE",
+      "Instansi": null,
+      "IP Address": "123.108.97.202",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 258
+    },
+    {
+      "No": 203.0,
+      "Nama Layanan": "MetasploitPro DCPA",
+      "Instansi": null,
+      "IP Address": "123.108.97.203",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 259
+    },
+    {
+      "No": null,
+      "Nama Layanan": "Metasploitable DCPA",
+      "Instansi": null,
+      "IP Address": "123.108.97.204",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 261
+    },
+    {
+      "No": null,
+      "Nama Layanan": "OSM",
+      "Instansi": null,
+      "IP Address": "123.108.97.205",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 263
+    },
+    {
+      "No": 206.0,
+      "Nama Layanan": "E-Budgeting Bener Meriah",
+      "Instansi": null,
+      "IP Address": "123.108.97.206",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 264
+    },
+    {
+      "No": 207.0,
+      "Nama Layanan": "Testing Blade",
+      "Instansi": null,
+      "IP Address": "123.108.97.207",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 265
+    },
+    {
+      "No": 208.0,
+      "Nama Layanan": "vps drka",
+      "Instansi": null,
+      "IP Address": "123.108.97.208",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 266
+    },
+    {
+      "No": 209.0,
+      "Nama Layanan": "VPS DISHUB-1",
+      "Instansi": null,
+      "IP Address": "123.108.97.209",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 267
+    },
+    {
+      "No": 210.0,
+      "Nama Layanan": "VPS DISHUB-2",
+      "Instansi": null,
+      "IP Address": "123.108.97.210",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 268
+    },
+    {
+      "No": 211.0,
+      "Nama Layanan": "Simulasi Hosting 11",
+      "Instansi": null,
+      "IP Address": "123.108.97.211",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 269
+    },
+    {
+      "No": 212.0,
+      "Nama Layanan": "Monitoring Zabbix @ali",
+      "Instansi": null,
+      "IP Address": "123.108.97.212",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 270
+    },
+    {
+      "No": 213.0,
+      "Nama Layanan": "VPS DISHUB-4",
+      "Instansi": null,
+      "IP Address": "123.108.97.213",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 271
+    },
+    {
+      "No": 214.0,
+      "Nama Layanan": "LHKDAI",
+      "Instansi": "DSI",
+      "IP Address": "123.108.97.214",
+      "Status": "Aktif",
+      "Lokasi": "DC NC Banda Aceh",
+      "Row": 272
+    },
+    {
+      "No": 215.0,
+      "Nama Layanan": "BPBJ ULP",
+      "Instansi": null,
+      "IP Address": "123.108.97.215",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 273
+    },
+    {
+      "No": 216.0,
+      "Nama Layanan": "simonaPBJ",
+      "Instansi": null,
+      "IP Address": "123.108.97.216",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 274
+    },
+    {
+      "No": 217.0,
+      "Nama Layanan": "VPS-ASET-",
+      "Instansi": null,
+      "IP Address": "123.108.97.217",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 275
+    },
+    {
+      "No": 218.0,
+      "Nama Layanan": "FortiGate 1500D",
+      "Instansi": null,
+      "IP Address": "123.108.97.218",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 276
+    },
+    {
+      "No": 219.0,
+      "Nama Layanan": "simulasi-dc1",
+      "Instansi": null,
+      "IP Address": "123.108.97.219",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 277
+    },
+    {
+      "No": 220.0,
+      "Nama Layanan": "NS_recursive1",
+      "Instansi": null,
+      "IP Address": "123.108.97.220",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 278
+    },
+    {
+      "No": null,
+      "Nama Layanan": "VPS Perekam data keamanan Egov",
+      "Instansi": null,
+      "IP Address": "123.108.97.221",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 280
+    },
+    {
+      "No": 222.0,
+      "Nama Layanan": "NS_Recursive2",
+      "Instansi": null,
+      "IP Address": "123.108.97.222",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 281
+    },
+    {
+      "No": 223.0,
+      "Nama Layanan": "Simulasi NextCloud @galu",
+      "Instansi": null,
+      "IP Address": "123.108.97.223",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 282
+    },
+    {
+      "No": 224.0,
+      "Nama Layanan": "Coba jal",
+      "Instansi": null,
+      "IP Address": "123.108.97.224",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 283
+    },
+    {
+      "No": 225.0,
+      "Nama Layanan": "VPS Aplikasi Sistem Jaminan Produk Halal MPU",
+      "Instansi": null,
+      "IP Address": "123.108.97.225",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 284
+    },
+    {
+      "No": 226.0,
+      "Nama Layanan": "VM Windows",
+      "Instansi": null,
+      "IP Address": "123.108.97.226",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 285
+    },
+    {
+      "No": 227.0,
+      "Nama Layanan": "VPS e-survey",
+      "Instansi": null,
+      "IP Address": "123.108.97.227",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 286
+    },
+    {
+      "No": 228.0,
+      "Nama Layanan": "VPS Server Dev API Gateway Sistem Integrasi",
+      "Instansi": "Dinas Pendidikan Aceh",
+      "IP Address": "123.108.97.228",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 287
+    },
+    {
+      "No": 229.0,
+      "Nama Layanan": "Asset3",
+      "Instansi": null,
+      "IP Address": "123.108.97.229",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 288
+    },
+    {
+      "No": 230.0,
+      "Nama Layanan": "VPS PUPR SIJANTAN TARU",
+      "Instansi": null,
+      "IP Address": "123.108.97.230",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 289
+    },
+    {
+      "No": 231.0,
+      "Nama Layanan": "SERVER LPSE 2021",
+      "Instansi": null,
+      "IP Address": "123.108.97.231",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 290
+    },
+    {
+      "No": 232.0,
+      "Nama Layanan": "VPS App RegVaksin Kab/Kota",
+      "Instansi": null,
+      "IP Address": "123.108.97.232",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 291
+    },
+    {
+      "No": 233.0,
+      "Nama Layanan": "CPANEL",
+      "Instansi": null,
+      "IP Address": "123.108.97.233",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 292
+    },
+    {
+      "No": 234.0,
+      "Nama Layanan": "CPANEL",
+      "Instansi": null,
+      "IP Address": "123.108.97.234",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 293
+    },
+    {
+      "No": 235.0,
+      "Nama Layanan": "Proxmox SIAT",
+      "Instansi": null,
+      "IP Address": "123.108.97.235",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 294
+    },
+    {
+      "No": 236.0,
+      "Nama Layanan": "VPS SIMPKK",
+      "Instansi": null,
+      "IP Address": "123.108.97.236",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 295
+    },
+    {
+      "No": 237.0,
+      "Nama Layanan": "Pritunl",
+      "Instansi": null,
+      "IP Address": "123.108.97.237",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 296
+    },
+    {
+      "No": null,
+      "Nama Layanan": "VPS Dashboard Gubernur Aceh",
+      "Instansi": null,
+      "IP Address": "123.108.97.238",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 298
+    },
+    {
+      "No": null,
+      "Nama Layanan": "DNS COBA JAL",
+      "Instansi": null,
+      "IP Address": "123.108.97.239",
+      "Status": "Tidak Aktif",
+      "Lokasi": null,
+      "Row": 301
+    },
+    {
+      "No": 240.0,
+      "Nama Layanan": "VPN Datacenter",
+      "Instansi": null,
+      "IP Address": "123.108.97.240",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 302
+    },
+    {
+      "No": 241.0,
+      "Nama Layanan": "Cacti",
+      "Instansi": null,
+      "IP Address": "123.108.97.241",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 303
+    },
+    {
+      "No": 242.0,
+      "Nama Layanan": null,
+      "Instansi": null,
+      "IP Address": "123.108.97.242",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 304
+    },
+    {
+      "No": 243.0,
+      "Nama Layanan": "File_Server",
+      "Instansi": null,
+      "IP Address": "123.108.97.243",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 305
+    },
+    {
+      "No": 244.0,
+      "Nama Layanan": "Proxmox",
+      "Instansi": null,
+      "IP Address": "123.108.97.244",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 306
+    },
+    {
+      "No": 245.0,
+      "Nama Layanan": "PNS BOX",
+      "Instansi": null,
+      "IP Address": "123.108.97.245",
+      "Status": "Aktif",
+      "Lokasi": "None",
+      "Row": 307
+    },
+    {
+      "No": 246.0,
+      "Nama Layanan": "VPS Server Dev Portal SuperApps",
+      "Instansi": "Dinas Pendidikan Aceh",
+      "IP Address": "123.108.97.246",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 308
+    },
+    {
+      "No": 247.0,
+      "Nama Layanan": "VPS Server Hosting Aplikasi Existing",
+      "Instansi": "Dinas Pendidikan Aceh",
+      "IP Address": "123.108.97.247",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 309
+    },
+    {
+      "No": 248.0,
+      "Nama Layanan": "Switch",
+      "Instansi": null,
+      "IP Address": "123.108.97.248",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 310
+    },
+    {
+      "No": 249.0,
+      "Nama Layanan": "Switch",
+      "Instansi": null,
+      "IP Address": "123.108.97.249",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 311
+    },
+    {
+      "No": 250.0,
+      "Nama Layanan": "Switch",
+      "Instansi": null,
+      "IP Address": "123.108.97.250",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 312
+    },
+    {
+      "No": 251.0,
+      "Nama Layanan": "Switch",
+      "Instansi": null,
+      "IP Address": "123.108.97.251",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 313
+    },
+    {
+      "No": 252.0,
+      "Nama Layanan": "Switch",
+      "Instansi": null,
+      "IP Address": "123.108.97.252",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 314
+    },
+    {
+      "No": 253.0,
+      "Nama Layanan": "Switch",
+      "Instansi": null,
+      "IP Address": "123.108.97.253",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 315
+    },
+    {
+      "No": 254.0,
+      "Nama Layanan": "Switch",
+      "Instansi": null,
+      "IP Address": "123.108.97.254",
+      "Status": "Aktif",
+      "Lokasi": null,
+      "Row": 316
+    }
+  ]
+}
